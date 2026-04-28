@@ -1,21 +1,21 @@
-msa_name,rank,CBSAFP,group
-"Austin, TX",1,12420,Top 10
-"St. George, UT",2,41100,Top 10
-"Destin, FL",3,18880,Top 10
-"Charleston, SC",4,16700,Top 10
-"Phoenix, AZ",5,38060,Top 10
-"Jacksonville, FL",6,27260,Top 10
-"Fort Collins, CO",7,22660,Top 10
-"Gainesville, GA",8,23580,Top 10
-"Savannah, GA",9,42340,Top 10
-"Charlotte, NC",10,16740,Top 10
-"Houma, LA",349,26380,Bottom 10
-"Watertown, NY",350,48060,Bottom 10
-"Decatur, AL",351,19460,Bottom 10
-"Longview, TX",352,30980,Bottom 10
-"Rocky Mount, NC",353,40580,Bottom 10
-"Victoria, TX",354,47020,Bottom 10
-"Texarkana, TX",355,45500,Bottom 10
-"Fairbanks-College, AK",356,21820,Bottom 10
-"Cape Girardeau, MO",357,16020,Bottom 10
-"Charleston, WV",358,16620,Bottom 10
+name_msa,rank,msa,group
+"Austin-Round Rock-San Marcos, TX Metro Area",1,12420,Top 10
+"St. George, UT Metro Area",2,41100,Top 10
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",3,18880,Top 10
+"Charleston-North Charleston, SC Metro Area",4,16700,Top 10
+"Phoenix-Mesa-Chandler, AZ Metro Area",5,38060,Top 10
+"Jacksonville, FL Metro Area",6,27260,Top 10
+"Fort Collins-Loveland, CO Metro Area",7,22660,Top 10
+"Gainesville, GA Metro Area",8,23580,Top 10
+"Savannah, GA Metro Area",9,42340,Top 10
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",10,16740,Top 10
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",349,26380,Bottom 10
+"Watertown-Fort Drum, NY Metro Area",350,48060,Bottom 10
+"Decatur, AL Metro Area",351,19460,Bottom 10
+"Longview, TX Metro Area",352,30980,Bottom 10
+"Rocky Mount, NC Metro Area",353,40580,Bottom 10
+"Victoria, TX Metro Area",354,47020,Bottom 10
+"Texarkana, TX-AR Metro Area",355,45500,Bottom 10
+"Fairbanks-College, AK Metro Area",356,21820,Bottom 10
+"Cape Girardeau, MO-IL Metro Area",357,16020,Bottom 10
+"Charleston, WV Metro Area",358,16620,Bottom 10
