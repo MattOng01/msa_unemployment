@@ -33,4 +33,8 @@ Gaps are defined as the difference in unemployment rates between racial/ethnic g
 | `Msa_county_reference.xlsx` | MSA–county FIPS crosswalk |
 | `msa_data.csv` | MSA-level unemployment data. Source: U.S. Census Bureau |
 | `msagdp_raw.csv` | BEA MSA GDP data (LineCode = 2, real GDP). Source BEA's CAGDP1: County and Metropolitan Area Gross Domestic Product (GDP) Summary |
+
+Portfolio: https://sites.google.com/view/matthewong/selected-work/msa-unemployment
+Linkedin: www.linkedin.com/in/matthewong01
+
  
