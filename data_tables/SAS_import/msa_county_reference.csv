@@ -1,0 +1,1151 @@
+msa,name_msa,fipstate,fipscty,name_county,fips
+10180,"Abilene, TX Metro Area",48,059,"Callahan County, Texas",48059
+10180,"Abilene, TX Metro Area",48,253,"Jones County, Texas",48253
+10180,"Abilene, TX Metro Area",48,441,"Taylor County, Texas",48441
+10420,"Akron, OH Metro Area",39,133,"Portage County, Ohio",39133
+10420,"Akron, OH Metro Area",39,153,"Summit County, Ohio",39153
+10500,"Albany, GA Metro Area",13,095,"Dougherty County, Georgia",13095
+10500,"Albany, GA Metro Area",13,177,"Lee County, Georgia",13177
+10500,"Albany, GA Metro Area",13,273,"Terrell County, Georgia",13273
+10500,"Albany, GA Metro Area",13,321,"Worth County, Georgia",13321
+10540,"Albany, OR Metro Area",41,043,"Linn County, Oregon",41043
+10580,"Albany-Schenectady-Troy, NY Metro Area",36,001,"Albany County, New York",36001
+10580,"Albany-Schenectady-Troy, NY Metro Area",36,083,"Rensselaer County, New York",36083
+10580,"Albany-Schenectady-Troy, NY Metro Area",36,091,"Saratoga County, New York",36091
+10580,"Albany-Schenectady-Troy, NY Metro Area",36,093,"Schenectady County, New York",36093
+10580,"Albany-Schenectady-Troy, NY Metro Area",36,095,"Schoharie County, New York",36095
+10740,"Albuquerque, NM Metro Area",35,001,"Bernalillo County, New Mexico",35001
+10740,"Albuquerque, NM Metro Area",35,043,"Sandoval County, New Mexico",35043
+10740,"Albuquerque, NM Metro Area",35,057,"Torrance County, New Mexico",35057
+10740,"Albuquerque, NM Metro Area",35,061,"Valencia County, New Mexico",35061
+10780,"Alexandria, LA Metro Area",22,043,"Grant Parish, Louisiana",22043
+10780,"Alexandria, LA Metro Area",22,079,"Rapides Parish, Louisiana",22079
+10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",34,041,"Warren County, New Jersey",34041
+10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",42,025,"Carbon County, Pennsylvania",42025
+10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",42,077,"Lehigh County, Pennsylvania",42077
+10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",42,095,"Northampton County, Pennsylvania",42095
+11020,"Altoona, PA Metro Area",42,013,"Blair County, Pennsylvania",42013
+11100,"Amarillo, TX Metro Area",48,011,"Armstrong County, Texas",48011
+11100,"Amarillo, TX Metro Area",48,065,"Carson County, Texas",48065
+11100,"Amarillo, TX Metro Area",48,359,"Oldham County, Texas",48359
+11100,"Amarillo, TX Metro Area",48,375,"Potter County, Texas",48375
+11100,"Amarillo, TX Metro Area",48,381,"Randall County, Texas",48381
+11180,"Ames, IA Metro Area",19,015,"Boone County, Iowa",19015
+11180,"Ames, IA Metro Area",19,169,"Story County, Iowa",19169
+11200,"Amherst Town-Northampton, MA Metro Area",25,015,"Hampshire County, Massachusetts",25015
+11260,"Anchorage, AK Metro Area",02,020,"Anchorage Municipality, Alaska",02020
+11260,"Anchorage, AK Metro Area",02,170,"Matanuska-Susitna Borough, Alaska",02170
+11460,"Ann Arbor, MI Metro Area",26,161,"Washtenaw County, Michigan",26161
+11500,"Anniston-Oxford, AL Metro Area",01,015,"Calhoun County, Alabama",01015
+11540,"Appleton, WI Metro Area",55,015,"Calumet County, Wisconsin",55015
+11540,"Appleton, WI Metro Area",55,087,"Outagamie County, Wisconsin",55087
+11700,"Asheville, NC Metro Area",37,021,"Buncombe County, North Carolina",37021
+11700,"Asheville, NC Metro Area",37,089,"Henderson County, North Carolina",37089
+11700,"Asheville, NC Metro Area",37,115,"Madison County, North Carolina",37115
+12020,"Athens-Clarke County, GA Metro Area",13,059,"Clarke County, Georgia",13059
+12020,"Athens-Clarke County, GA Metro Area",13,195,"Madison County, Georgia",13195
+12020,"Athens-Clarke County, GA Metro Area",13,219,"Oconee County, Georgia",13219
+12020,"Athens-Clarke County, GA Metro Area",13,221,"Oglethorpe County, Georgia",13221
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,013,"Barrow County, Georgia",13013
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,015,"Bartow County, Georgia",13015
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,035,"Butts County, Georgia",13035
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,045,"Carroll County, Georgia",13045
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,057,"Cherokee County, Georgia",13057
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,063,"Clayton County, Georgia",13063
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,067,"Cobb County, Georgia",13067
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,077,"Coweta County, Georgia",13077
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,085,"Dawson County, Georgia",13085
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,089,"DeKalb County, Georgia",13089
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,097,"Douglas County, Georgia",13097
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,113,"Fayette County, Georgia",13113
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,117,"Forsyth County, Georgia",13117
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,121,"Fulton County, Georgia",13121
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,135,"Gwinnett County, Georgia",13135
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,143,"Haralson County, Georgia",13143
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,149,"Heard County, Georgia",13149
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,151,"Henry County, Georgia",13151
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,159,"Jasper County, Georgia",13159
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,187,"Lumpkin County, Georgia",13187
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,199,"Meriwether County, Georgia",13199
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,211,"Morgan County, Georgia",13211
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,217,"Newton County, Georgia",13217
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,223,"Paulding County, Georgia",13223
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,227,"Pickens County, Georgia",13227
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,231,"Pike County, Georgia",13231
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,247,"Rockdale County, Georgia",13247
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,255,"Spalding County, Georgia",13255
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",13,297,"Walton County, Georgia",13297
+12100,"Atlantic City-Hammonton, NJ Metro Area",34,001,"Atlantic County, New Jersey",34001
+12100,"Atlantic City-Hammonton, NJ Metro Area",34,009,"Cape May County, New Jersey",34009
+12220,"Auburn-Opelika, AL Metro Area",01,081,"Lee County, Alabama",01081
+12220,"Auburn-Opelika, AL Metro Area",01,087,"Macon County, Alabama",01087
+12260,"Augusta-Richmond County, GA-SC Metro Area",13,033,"Burke County, Georgia",13033
+12260,"Augusta-Richmond County, GA-SC Metro Area",13,073,"Columbia County, Georgia",13073
+12260,"Augusta-Richmond County, GA-SC Metro Area",13,181,"Lincoln County, Georgia",13181
+12260,"Augusta-Richmond County, GA-SC Metro Area",13,189,"McDuffie County, Georgia",13189
+12260,"Augusta-Richmond County, GA-SC Metro Area",13,245,"Richmond County, Georgia",13245
+12260,"Augusta-Richmond County, GA-SC Metro Area",45,003,"Aiken County, South Carolina",45003
+12260,"Augusta-Richmond County, GA-SC Metro Area",45,037,"Edgefield County, South Carolina",45037
+12420,"Austin-Round Rock-San Marcos, TX Metro Area",48,021,"Bastrop County, Texas",48021
+12420,"Austin-Round Rock-San Marcos, TX Metro Area",48,055,"Caldwell County, Texas",48055
+12420,"Austin-Round Rock-San Marcos, TX Metro Area",48,209,"Hays County, Texas",48209
+12420,"Austin-Round Rock-San Marcos, TX Metro Area",48,453,"Travis County, Texas",48453
+12420,"Austin-Round Rock-San Marcos, TX Metro Area",48,491,"Williamson County, Texas",48491
+12540,"Bakersfield-Delano, CA Metro Area",06,029,"Kern County, California",06029
+12580,"Baltimore-Columbia-Towson, MD Metro Area",24,003,"Anne Arundel County, Maryland",24003
+12580,"Baltimore-Columbia-Towson, MD Metro Area",24,005,"Baltimore County, Maryland",24005
+12580,"Baltimore-Columbia-Towson, MD Metro Area",24,013,"Carroll County, Maryland",24013
+12580,"Baltimore-Columbia-Towson, MD Metro Area",24,025,"Harford County, Maryland",24025
+12580,"Baltimore-Columbia-Towson, MD Metro Area",24,027,"Howard County, Maryland",24027
+12580,"Baltimore-Columbia-Towson, MD Metro Area",24,035,"Queen Anne's County, Maryland",24035
+12580,"Baltimore-Columbia-Towson, MD Metro Area",24,510,"Baltimore city, Maryland",24510
+12620,"Bangor, ME Metro Area",23,019,"Penobscot County, Maine",23019
+12700,"Barnstable Town, MA Metro Area",25,001,"Barnstable County, Massachusetts",25001
+12940,"Baton Rouge, LA Metro Area",22,005,"Ascension Parish, Louisiana",22005
+12940,"Baton Rouge, LA Metro Area",22,007,"Assumption Parish, Louisiana",22007
+12940,"Baton Rouge, LA Metro Area",22,033,"East Baton Rouge Parish, Louisiana",22033
+12940,"Baton Rouge, LA Metro Area",22,037,"East Feliciana Parish, Louisiana",22037
+12940,"Baton Rouge, LA Metro Area",22,047,"Iberville Parish, Louisiana",22047
+12940,"Baton Rouge, LA Metro Area",22,063,"Livingston Parish, Louisiana",22063
+12940,"Baton Rouge, LA Metro Area",22,077,"Pointe Coupee Parish, Louisiana",22077
+12940,"Baton Rouge, LA Metro Area",22,091,"St. Helena Parish, Louisiana",22091
+12940,"Baton Rouge, LA Metro Area",22,121,"West Baton Rouge Parish, Louisiana",22121
+12940,"Baton Rouge, LA Metro Area",22,125,"West Feliciana Parish, Louisiana",22125
+12980,"Battle Creek, MI Metro Area",26,025,"Calhoun County, Michigan",26025
+13020,"Bay City, MI Metro Area",26,017,"Bay County, Michigan",26017
+13140,"Beaumont-Port Arthur, TX Metro Area",48,199,"Hardin County, Texas",48199
+13140,"Beaumont-Port Arthur, TX Metro Area",48,245,"Jefferson County, Texas",48245
+13140,"Beaumont-Port Arthur, TX Metro Area",48,361,"Orange County, Texas",48361
+13380,"Bellingham, WA Metro Area",53,073,"Whatcom County, Washington",53073
+13740,"Billings, MT Metro Area",30,009,"Carbon County, Montana",30009
+13740,"Billings, MT Metro Area",30,095,"Stillwater County, Montana",30095
+13740,"Billings, MT Metro Area",30,111,"Yellowstone County, Montana",30111
+13780,"Binghamton, NY Metro Area",36,007,"Broome County, New York",36007
+13780,"Binghamton, NY Metro Area",36,107,"Tioga County, New York",36107
+13820,"Birmingham, AL Metro Area",01,007,"Bibb County, Alabama",01007
+13820,"Birmingham, AL Metro Area",01,009,"Blount County, Alabama",01009
+13820,"Birmingham, AL Metro Area",01,021,"Chilton County, Alabama",01021
+13820,"Birmingham, AL Metro Area",01,073,"Jefferson County, Alabama",01073
+13820,"Birmingham, AL Metro Area",01,115,"St. Clair County, Alabama",01115
+13820,"Birmingham, AL Metro Area",01,117,"Shelby County, Alabama",01117
+13820,"Birmingham, AL Metro Area",01,127,"Walker County, Alabama",01127
+13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",51,063,"Floyd County, Virginia",51063
+13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",51,071,"Giles County, Virginia",51071
+13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",51,121,"Montgomery County, Virginia",51121
+13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",51,155,"Pulaski County, Virginia",51155
+13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",51,750,"Radford city, Virginia",51750
+14010,"Bloomington, IL Metro Area",17,113,"McLean County, Illinois",17113
+14020,"Bloomington, IN Metro Area",18,105,"Monroe County, Indiana",18105
+14020,"Bloomington, IN Metro Area",18,119,"Owen County, Indiana",18119
+14260,"Boise City, ID Metro Area",16,001,"Ada County, Idaho",16001
+14260,"Boise City, ID Metro Area",16,015,"Boise County, Idaho",16015
+14260,"Boise City, ID Metro Area",16,027,"Canyon County, Idaho",16027
+14260,"Boise City, ID Metro Area",16,045,"Gem County, Idaho",16045
+14260,"Boise City, ID Metro Area",16,073,"Owyhee County, Idaho",16073
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",25,009,"Essex County, Massachusetts",25009
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",25,017,"Middlesex County, Massachusetts",25017
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",25,021,"Norfolk County, Massachusetts",25021
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",25,023,"Plymouth County, Massachusetts",25023
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",25,025,"Suffolk County, Massachusetts",25025
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",33,015,"Rockingham County, New Hampshire",33015
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",33,017,"Strafford County, New Hampshire",33017
+14500,"Boulder, CO Metro Area",08,013,"Boulder County, Colorado",08013
+14540,"Bowling Green, KY Metro Area",21,003,"Allen County, Kentucky",21003
+14540,"Bowling Green, KY Metro Area",21,031,"Butler County, Kentucky",21031
+14540,"Bowling Green, KY Metro Area",21,061,"Edmonson County, Kentucky",21061
+14540,"Bowling Green, KY Metro Area",21,227,"Warren County, Kentucky",21227
+14740,"Bremerton-Silverdale-Port Orchard, WA Metro Area",53,035,"Kitsap County, Washington",53035
+14860,"Bridgeport-Stamford-Danbury, CT Metro Area",09,120,"Greater Bridgeport Planning Region, Connecticut",09120
+14860,"Bridgeport-Stamford-Danbury, CT Metro Area",09,190,"Western Connecticut Planning Region, Connecticut",09190
+15180,"Brownsville-Harlingen, TX Metro Area",48,061,"Cameron County, Texas",48061
+15260,"Brunswick-St. Simons, GA Metro Area",13,025,"Brantley County, Georgia",13025
+15260,"Brunswick-St. Simons, GA Metro Area",13,127,"Glynn County, Georgia",13127
+15260,"Brunswick-St. Simons, GA Metro Area",13,191,"McIntosh County, Georgia",13191
+15380,"Buffalo-Cheektowaga, NY Metro Area",36,029,"Erie County, New York",36029
+15380,"Buffalo-Cheektowaga, NY Metro Area",36,063,"Niagara County, New York",36063
+15500,"Burlington, NC Metro Area",37,001,"Alamance County, North Carolina",37001
+15540,"Burlington-South Burlington, VT Metro Area",50,007,"Chittenden County, Vermont",50007
+15540,"Burlington-South Burlington, VT Metro Area",50,011,"Franklin County, Vermont",50011
+15540,"Burlington-South Burlington, VT Metro Area",50,013,"Grand Isle County, Vermont",50013
+15940,"Canton-Massillon, OH Metro Area",39,019,"Carroll County, Ohio",39019
+15940,"Canton-Massillon, OH Metro Area",39,151,"Stark County, Ohio",39151
+15980,"Cape Coral-Fort Myers, FL Metro Area",12,071,"Lee County, Florida",12071
+16020,"Cape Girardeau, MO-IL Metro Area",17,003,"Alexander County, Illinois",17003
+16020,"Cape Girardeau, MO-IL Metro Area",29,017,"Bollinger County, Missouri",29017
+16020,"Cape Girardeau, MO-IL Metro Area",29,031,"Cape Girardeau County, Missouri",29031
+16300,"Cedar Rapids, IA Metro Area",19,011,"Benton County, Iowa",19011
+16300,"Cedar Rapids, IA Metro Area",19,105,"Jones County, Iowa",19105
+16300,"Cedar Rapids, IA Metro Area",19,113,"Linn County, Iowa",19113
+16540,"Chambersburg, PA Metro Area",42,055,"Franklin County, Pennsylvania",42055
+16580,"Champaign-Urbana, IL Metro Area",17,019,"Champaign County, Illinois",17019
+16580,"Champaign-Urbana, IL Metro Area",17,053,"Ford County, Illinois",17053
+16580,"Champaign-Urbana, IL Metro Area",17,147,"Piatt County, Illinois",17147
+16620,"Charleston, WV Metro Area",54,005,"Boone County, West Virginia",54005
+16620,"Charleston, WV Metro Area",54,015,"Clay County, West Virginia",54015
+16620,"Charleston, WV Metro Area",54,039,"Kanawha County, West Virginia",54039
+16700,"Charleston-North Charleston, SC Metro Area",45,015,"Berkeley County, South Carolina",45015
+16700,"Charleston-North Charleston, SC Metro Area",45,019,"Charleston County, South Carolina",45019
+16700,"Charleston-North Charleston, SC Metro Area",45,035,"Dorchester County, South Carolina",45035
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,007,"Anson County, North Carolina",37007
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,025,"Cabarrus County, North Carolina",37025
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,071,"Gaston County, North Carolina",37071
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,097,"Iredell County, North Carolina",37097
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,109,"Lincoln County, North Carolina",37109
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,119,"Mecklenburg County, North Carolina",37119
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,159,"Rowan County, North Carolina",37159
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",37,179,"Union County, North Carolina",37179
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",45,023,"Chester County, South Carolina",45023
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",45,057,"Lancaster County, South Carolina",45057
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",45,091,"York County, South Carolina",45091
+16820,"Charlottesville, VA Metro Area",51,003,"Albemarle County, Virginia",51003
+16820,"Charlottesville, VA Metro Area",51,065,"Fluvanna County, Virginia",51065
+16820,"Charlottesville, VA Metro Area",51,079,"Greene County, Virginia",51079
+16820,"Charlottesville, VA Metro Area",51,125,"Nelson County, Virginia",51125
+16820,"Charlottesville, VA Metro Area",51,540,"Charlottesville city, Virginia",51540
+16860,"Chattanooga, TN-GA Metro Area",13,047,"Catoosa County, Georgia",13047
+16860,"Chattanooga, TN-GA Metro Area",13,083,"Dade County, Georgia",13083
+16860,"Chattanooga, TN-GA Metro Area",13,295,"Walker County, Georgia",13295
+16860,"Chattanooga, TN-GA Metro Area",47,065,"Hamilton County, Tennessee",47065
+16860,"Chattanooga, TN-GA Metro Area",47,115,"Marion County, Tennessee",47115
+16860,"Chattanooga, TN-GA Metro Area",47,153,"Sequatchie County, Tennessee",47153
+16940,"Cheyenne, WY Metro Area",56,021,"Laramie County, Wyoming",56021
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,031,"Cook County, Illinois",17031
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,037,"DeKalb County, Illinois",17037
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,043,"DuPage County, Illinois",17043
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,063,"Grundy County, Illinois",17063
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,089,"Kane County, Illinois",17089
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,093,"Kendall County, Illinois",17093
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,097,"Lake County, Illinois",17097
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,111,"McHenry County, Illinois",17111
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",17,197,"Will County, Illinois",17197
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",18,073,"Jasper County, Indiana",18073
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",18,089,"Lake County, Indiana",18089
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",18,111,"Newton County, Indiana",18111
+16980,"Chicago-Naperville-Elgin, IL-IN Metro Area",18,127,"Porter County, Indiana",18127
+17020,"Chico, CA Metro Area",06,007,"Butte County, California",06007
+17140,"Cincinnati, OH-KY-IN Metro Area",18,029,"Dearborn County, Indiana",18029
+17140,"Cincinnati, OH-KY-IN Metro Area",18,047,"Franklin County, Indiana",18047
+17140,"Cincinnati, OH-KY-IN Metro Area",18,115,"Ohio County, Indiana",18115
+17140,"Cincinnati, OH-KY-IN Metro Area",21,015,"Boone County, Kentucky",21015
+17140,"Cincinnati, OH-KY-IN Metro Area",21,023,"Bracken County, Kentucky",21023
+17140,"Cincinnati, OH-KY-IN Metro Area",21,037,"Campbell County, Kentucky",21037
+17140,"Cincinnati, OH-KY-IN Metro Area",21,077,"Gallatin County, Kentucky",21077
+17140,"Cincinnati, OH-KY-IN Metro Area",21,081,"Grant County, Kentucky",21081
+17140,"Cincinnati, OH-KY-IN Metro Area",21,117,"Kenton County, Kentucky",21117
+17140,"Cincinnati, OH-KY-IN Metro Area",21,191,"Pendleton County, Kentucky",21191
+17140,"Cincinnati, OH-KY-IN Metro Area",39,015,"Brown County, Ohio",39015
+17140,"Cincinnati, OH-KY-IN Metro Area",39,017,"Butler County, Ohio",39017
+17140,"Cincinnati, OH-KY-IN Metro Area",39,025,"Clermont County, Ohio",39025
+17140,"Cincinnati, OH-KY-IN Metro Area",39,061,"Hamilton County, Ohio",39061
+17140,"Cincinnati, OH-KY-IN Metro Area",39,165,"Warren County, Ohio",39165
+17300,"Clarksville, TN-KY Metro Area",21,047,"Christian County, Kentucky",21047
+17300,"Clarksville, TN-KY Metro Area",21,221,"Trigg County, Kentucky",21221
+17300,"Clarksville, TN-KY Metro Area",47,125,"Montgomery County, Tennessee",47125
+17300,"Clarksville, TN-KY Metro Area",47,161,"Stewart County, Tennessee",47161
+17410,"Cleveland, OH Metro Area",39,007,"Ashtabula County, Ohio",39007
+17410,"Cleveland, OH Metro Area",39,035,"Cuyahoga County, Ohio",39035
+17410,"Cleveland, OH Metro Area",39,055,"Geauga County, Ohio",39055
+17410,"Cleveland, OH Metro Area",39,085,"Lake County, Ohio",39085
+17410,"Cleveland, OH Metro Area",39,093,"Lorain County, Ohio",39093
+17410,"Cleveland, OH Metro Area",39,103,"Medina County, Ohio",39103
+17420,"Cleveland, TN Metro Area",47,011,"Bradley County, Tennessee",47011
+17420,"Cleveland, TN Metro Area",47,139,"Polk County, Tennessee",47139
+17780,"College Station-Bryan, TX Metro Area",48,041,"Brazos County, Texas",48041
+17780,"College Station-Bryan, TX Metro Area",48,051,"Burleson County, Texas",48051
+17780,"College Station-Bryan, TX Metro Area",48,395,"Robertson County, Texas",48395
+17820,"Colorado Springs, CO Metro Area",08,041,"El Paso County, Colorado",08041
+17820,"Colorado Springs, CO Metro Area",08,119,"Teller County, Colorado",08119
+17860,"Columbia, MO Metro Area",29,019,"Boone County, Missouri",29019
+17860,"Columbia, MO Metro Area",29,053,"Cooper County, Missouri",29053
+17860,"Columbia, MO Metro Area",29,089,"Howard County, Missouri",29089
+17900,"Columbia, SC Metro Area",45,017,"Calhoun County, South Carolina",45017
+17900,"Columbia, SC Metro Area",45,039,"Fairfield County, South Carolina",45039
+17900,"Columbia, SC Metro Area",45,055,"Kershaw County, South Carolina",45055
+17900,"Columbia, SC Metro Area",45,063,"Lexington County, South Carolina",45063
+17900,"Columbia, SC Metro Area",45,079,"Richland County, South Carolina",45079
+17900,"Columbia, SC Metro Area",45,081,"Saluda County, South Carolina",45081
+17980,"Columbus, GA-AL Metro Area",01,113,"Russell County, Alabama",01113
+17980,"Columbus, GA-AL Metro Area",13,053,"Chattahoochee County, Georgia",13053
+17980,"Columbus, GA-AL Metro Area",13,145,"Harris County, Georgia",13145
+17980,"Columbus, GA-AL Metro Area",13,197,"Marion County, Georgia",13197
+17980,"Columbus, GA-AL Metro Area",13,215,"Muscogee County, Georgia",13215
+17980,"Columbus, GA-AL Metro Area",13,259,"Stewart County, Georgia",13259
+17980,"Columbus, GA-AL Metro Area",13,263,"Talbot County, Georgia",13263
+18020,"Columbus, IN Metro Area",18,005,"Bartholomew County, Indiana",18005
+18140,"Columbus, OH Metro Area",39,041,"Delaware County, Ohio",39041
+18140,"Columbus, OH Metro Area",39,045,"Fairfield County, Ohio",39045
+18140,"Columbus, OH Metro Area",39,049,"Franklin County, Ohio",39049
+18140,"Columbus, OH Metro Area",39,073,"Hocking County, Ohio",39073
+18140,"Columbus, OH Metro Area",39,089,"Licking County, Ohio",39089
+18140,"Columbus, OH Metro Area",39,097,"Madison County, Ohio",39097
+18140,"Columbus, OH Metro Area",39,117,"Morrow County, Ohio",39117
+18140,"Columbus, OH Metro Area",39,127,"Perry County, Ohio",39127
+18140,"Columbus, OH Metro Area",39,129,"Pickaway County, Ohio",39129
+18140,"Columbus, OH Metro Area",39,159,"Union County, Ohio",39159
+18580,"Corpus Christi, TX Metro Area",48,007,"Aransas County, Texas",48007
+18580,"Corpus Christi, TX Metro Area",48,355,"Nueces County, Texas",48355
+18580,"Corpus Christi, TX Metro Area",48,409,"San Patricio County, Texas",48409
+18700,"Corvallis, OR Metro Area",41,003,"Benton County, Oregon",41003
+18880,"Crestview-Fort Walton Beach-Destin, FL Metro Area",12,091,"Okaloosa County, Florida",12091
+18880,"Crestview-Fort Walton Beach-Destin, FL Metro Area",12,131,"Walton County, Florida",12131
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,085,"Collin County, Texas",48085
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,113,"Dallas County, Texas",48113
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,121,"Denton County, Texas",48121
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,139,"Ellis County, Texas",48139
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,231,"Hunt County, Texas",48231
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,251,"Johnson County, Texas",48251
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,257,"Kaufman County, Texas",48257
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,367,"Parker County, Texas",48367
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,397,"Rockwall County, Texas",48397
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,439,"Tarrant County, Texas",48439
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",48,497,"Wise County, Texas",48497
+19140,"Dalton, GA Metro Area",13,213,"Murray County, Georgia",13213
+19140,"Dalton, GA Metro Area",13,313,"Whitfield County, Georgia",13313
+19300,"Daphne-Fairhope-Foley, AL Metro Area",01,003,"Baldwin County, Alabama",01003
+19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",17,073,"Henry County, Illinois",17073
+19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",17,131,"Mercer County, Illinois",17131
+19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",17,161,"Rock Island County, Illinois",17161
+19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",19,163,"Scott County, Iowa",19163
+19430,"Dayton-Kettering-Beavercreek, OH Metro Area",39,057,"Greene County, Ohio",39057
+19430,"Dayton-Kettering-Beavercreek, OH Metro Area",39,109,"Miami County, Ohio",39109
+19430,"Dayton-Kettering-Beavercreek, OH Metro Area",39,113,"Montgomery County, Ohio",39113
+19460,"Decatur, AL Metro Area",01,079,"Lawrence County, Alabama",01079
+19460,"Decatur, AL Metro Area",01,103,"Morgan County, Alabama",01103
+19500,"Decatur, IL Metro Area",17,115,"Macon County, Illinois",17115
+19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",12,035,"Flagler County, Florida",12035
+19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",12,127,"Volusia County, Florida",12127
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,001,"Adams County, Colorado",08001
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,005,"Arapahoe County, Colorado",08005
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,014,"Broomfield County, Colorado",08014
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,019,"Clear Creek County, Colorado",08019
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,031,"Denver County, Colorado",08031
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,035,"Douglas County, Colorado",08035
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,039,"Elbert County, Colorado",08039
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,047,"Gilpin County, Colorado",08047
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,059,"Jefferson County, Colorado",08059
+19740,"Denver-Aurora-Centennial, CO Metro Area",08,093,"Park County, Colorado",08093
+19780,"Des Moines-West Des Moines, IA Metro Area",19,049,"Dallas County, Iowa",19049
+19780,"Des Moines-West Des Moines, IA Metro Area",19,077,"Guthrie County, Iowa",19077
+19780,"Des Moines-West Des Moines, IA Metro Area",19,099,"Jasper County, Iowa",19099
+19780,"Des Moines-West Des Moines, IA Metro Area",19,121,"Madison County, Iowa",19121
+19780,"Des Moines-West Des Moines, IA Metro Area",19,153,"Polk County, Iowa",19153
+19780,"Des Moines-West Des Moines, IA Metro Area",19,181,"Warren County, Iowa",19181
+19820,"Detroit-Warren-Dearborn, MI Metro Area",26,087,"Lapeer County, Michigan",26087
+19820,"Detroit-Warren-Dearborn, MI Metro Area",26,093,"Livingston County, Michigan",26093
+19820,"Detroit-Warren-Dearborn, MI Metro Area",26,099,"Macomb County, Michigan",26099
+19820,"Detroit-Warren-Dearborn, MI Metro Area",26,125,"Oakland County, Michigan",26125
+19820,"Detroit-Warren-Dearborn, MI Metro Area",26,147,"St. Clair County, Michigan",26147
+19820,"Detroit-Warren-Dearborn, MI Metro Area",26,163,"Wayne County, Michigan",26163
+20020,"Dothan, AL Metro Area",01,061,"Geneva County, Alabama",01061
+20020,"Dothan, AL Metro Area",01,067,"Henry County, Alabama",01067
+20020,"Dothan, AL Metro Area",01,069,"Houston County, Alabama",01069
+20100,"Dover, DE Metro Area",10,001,"Kent County, Delaware",10001
+20220,"Dubuque, IA Metro Area",19,061,"Dubuque County, Iowa",19061
+20260,"Duluth, MN-WI Metro Area",27,017,"Carlton County, Minnesota",27017
+20260,"Duluth, MN-WI Metro Area",27,137,"St. Louis County, Minnesota",27137
+20260,"Duluth, MN-WI Metro Area",55,031,"Douglas County, Wisconsin",55031
+20500,"Durham-Chapel Hill, NC Metro Area",37,037,"Chatham County, North Carolina",37037
+20500,"Durham-Chapel Hill, NC Metro Area",37,063,"Durham County, North Carolina",37063
+20500,"Durham-Chapel Hill, NC Metro Area",37,135,"Orange County, North Carolina",37135
+20500,"Durham-Chapel Hill, NC Metro Area",37,145,"Person County, North Carolina",37145
+20740,"Eau Claire, WI Metro Area",55,017,"Chippewa County, Wisconsin",55017
+20740,"Eau Claire, WI Metro Area",55,035,"Eau Claire County, Wisconsin",55035
+20940,"El Centro, CA Metro Area",06,025,"Imperial County, California",06025
+21060,"Elizabethtown, KY Metro Area",21,093,"Hardin County, Kentucky",21093
+21060,"Elizabethtown, KY Metro Area",21,123,"Larue County, Kentucky",21123
+21140,"Elkhart-Goshen, IN Metro Area",18,039,"Elkhart County, Indiana",18039
+21300,"Elmira, NY Metro Area",36,015,"Chemung County, New York",36015
+21340,"El Paso, TX Metro Area",48,141,"El Paso County, Texas",48141
+21340,"El Paso, TX Metro Area",48,229,"Hudspeth County, Texas",48229
+21420,"Enid, OK Metro Area",40,047,"Garfield County, Oklahoma",40047
+21500,"Erie, PA Metro Area",42,049,"Erie County, Pennsylvania",42049
+21660,"Eugene-Springfield, OR Metro Area",41,039,"Lane County, Oregon",41039
+21780,"Evansville, IN Metro Area",18,129,"Posey County, Indiana",18129
+21780,"Evansville, IN Metro Area",18,163,"Vanderburgh County, Indiana",18163
+21780,"Evansville, IN Metro Area",18,173,"Warrick County, Indiana",18173
+21820,"Fairbanks-College, AK Metro Area",02,090,"Fairbanks North Star Borough, Alaska",02090
+22020,"Fargo, ND-MN Metro Area",27,027,"Clay County, Minnesota",27027
+22020,"Fargo, ND-MN Metro Area",38,017,"Cass County, North Dakota",38017
+22180,"Fayetteville, NC Metro Area",37,051,"Cumberland County, North Carolina",37051
+22180,"Fayetteville, NC Metro Area",37,093,"Hoke County, North Carolina",37093
+22220,"Fayetteville-Springdale-Rogers, AR Metro Area",05,007,"Benton County, Arkansas",05007
+22220,"Fayetteville-Springdale-Rogers, AR Metro Area",05,087,"Madison County, Arkansas",05087
+22220,"Fayetteville-Springdale-Rogers, AR Metro Area",05,143,"Washington County, Arkansas",05143
+22380,"Flagstaff, AZ Metro Area",04,005,"Coconino County, Arizona",04005
+22420,"Flint, MI Metro Area",26,049,"Genesee County, Michigan",26049
+22500,"Florence, SC Metro Area",45,031,"Darlington County, South Carolina",45031
+22500,"Florence, SC Metro Area",45,041,"Florence County, South Carolina",45041
+22520,"Florence-Muscle Shoals, AL Metro Area",01,033,"Colbert County, Alabama",01033
+22520,"Florence-Muscle Shoals, AL Metro Area",01,077,"Lauderdale County, Alabama",01077
+22540,"Fond du Lac, WI Metro Area",55,039,"Fond du Lac County, Wisconsin",55039
+22660,"Fort Collins-Loveland, CO Metro Area",08,069,"Larimer County, Colorado",08069
+22900,"Fort Smith, AR-OK Metro Area",05,033,"Crawford County, Arkansas",05033
+22900,"Fort Smith, AR-OK Metro Area",05,131,"Sebastian County, Arkansas",05131
+22900,"Fort Smith, AR-OK Metro Area",40,135,"Sequoyah County, Oklahoma",40135
+23060,"Fort Wayne, IN Metro Area",18,003,"Allen County, Indiana",18003
+23060,"Fort Wayne, IN Metro Area",18,179,"Wells County, Indiana",18179
+23060,"Fort Wayne, IN Metro Area",18,183,"Whitley County, Indiana",18183
+23420,"Fresno, CA Metro Area",06,019,"Fresno County, California",06019
+23420,"Fresno, CA Metro Area",06,039,"Madera County, California",06039
+23460,"Gadsden, AL Metro Area",01,055,"Etowah County, Alabama",01055
+23540,"Gainesville, FL Metro Area",12,001,"Alachua County, Florida",12001
+23540,"Gainesville, FL Metro Area",12,041,"Gilchrist County, Florida",12041
+23540,"Gainesville, FL Metro Area",12,075,"Levy County, Florida",12075
+23580,"Gainesville, GA Metro Area",13,139,"Hall County, Georgia",13139
+23900,"Gettysburg, PA Metro Area",42,001,"Adams County, Pennsylvania",42001
+24140,"Goldsboro, NC Metro Area",37,191,"Wayne County, North Carolina",37191
+24220,"Grand Forks, ND-MN Metro Area",27,119,"Polk County, Minnesota",27119
+24220,"Grand Forks, ND-MN Metro Area",38,035,"Grand Forks County, North Dakota",38035
+24260,"Grand Island, NE Metro Area",31,079,"Hall County, Nebraska",31079
+24260,"Grand Island, NE Metro Area",31,093,"Howard County, Nebraska",31093
+24260,"Grand Island, NE Metro Area",31,121,"Merrick County, Nebraska",31121
+24340,"Grand Rapids-Wyoming-Kentwood, MI Metro Area",26,015,"Barry County, Michigan",26015
+24340,"Grand Rapids-Wyoming-Kentwood, MI Metro Area",26,067,"Ionia County, Michigan",26067
+24340,"Grand Rapids-Wyoming-Kentwood, MI Metro Area",26,081,"Kent County, Michigan",26081
+24340,"Grand Rapids-Wyoming-Kentwood, MI Metro Area",26,117,"Montcalm County, Michigan",26117
+24340,"Grand Rapids-Wyoming-Kentwood, MI Metro Area",26,139,"Ottawa County, Michigan",26139
+24500,"Great Falls, MT Metro Area",30,013,"Cascade County, Montana",30013
+24540,"Greeley, CO Metro Area",08,123,"Weld County, Colorado",08123
+24580,"Green Bay, WI Metro Area",55,009,"Brown County, Wisconsin",55009
+24580,"Green Bay, WI Metro Area",55,061,"Kewaunee County, Wisconsin",55061
+24580,"Green Bay, WI Metro Area",55,083,"Oconto County, Wisconsin",55083
+24660,"Greensboro-High Point, NC Metro Area",37,081,"Guilford County, North Carolina",37081
+24660,"Greensboro-High Point, NC Metro Area",37,151,"Randolph County, North Carolina",37151
+24660,"Greensboro-High Point, NC Metro Area",37,157,"Rockingham County, North Carolina",37157
+24780,"Greenville, NC Metro Area",37,147,"Pitt County, North Carolina",37147
+24860,"Greenville-Anderson-Greer, SC Metro Area",45,007,"Anderson County, South Carolina",45007
+24860,"Greenville-Anderson-Greer, SC Metro Area",45,045,"Greenville County, South Carolina",45045
+24860,"Greenville-Anderson-Greer, SC Metro Area",45,059,"Laurens County, South Carolina",45059
+24860,"Greenville-Anderson-Greer, SC Metro Area",45,077,"Pickens County, South Carolina",45077
+25060,"Gulfport-Biloxi, MS Metro Area",28,045,"Hancock County, Mississippi",28045
+25060,"Gulfport-Biloxi, MS Metro Area",28,047,"Harrison County, Mississippi",28047
+25060,"Gulfport-Biloxi, MS Metro Area",28,059,"Jackson County, Mississippi",28059
+25060,"Gulfport-Biloxi, MS Metro Area",28,131,"Stone County, Mississippi",28131
+25180,"Hagerstown-Martinsburg, MD-WV Metro Area",24,043,"Washington County, Maryland",24043
+25180,"Hagerstown-Martinsburg, MD-WV Metro Area",54,003,"Berkeley County, West Virginia",54003
+25180,"Hagerstown-Martinsburg, MD-WV Metro Area",54,065,"Morgan County, West Virginia",54065
+25220,"Hammond, LA Metro Area",22,105,"Tangipahoa Parish, Louisiana",22105
+25260,"Hanford-Corcoran, CA Metro Area",06,031,"Kings County, California",06031
+25420,"Harrisburg-Carlisle, PA Metro Area",42,041,"Cumberland County, Pennsylvania",42041
+25420,"Harrisburg-Carlisle, PA Metro Area",42,043,"Dauphin County, Pennsylvania",42043
+25420,"Harrisburg-Carlisle, PA Metro Area",42,099,"Perry County, Pennsylvania",42099
+25500,"Harrisonburg, VA Metro Area",51,165,"Rockingham County, Virginia",51165
+25500,"Harrisonburg, VA Metro Area",51,660,"Harrisonburg city, Virginia",51660
+25540,"Hartford-West Hartford-East Hartford, CT Metro Area",09,110,"Capitol Planning Region, Connecticut",09110
+25540,"Hartford-West Hartford-East Hartford, CT Metro Area",09,130,"Lower Connecticut River Valley Planning Region, Connecticut",09130
+25620,"Hattiesburg, MS Metro Area",28,035,"Forrest County, Mississippi",28035
+25620,"Hattiesburg, MS Metro Area",28,073,"Lamar County, Mississippi",28073
+25620,"Hattiesburg, MS Metro Area",28,111,"Perry County, Mississippi",28111
+25860,"Hickory-Lenoir-Morganton, NC Metro Area",37,003,"Alexander County, North Carolina",37003
+25860,"Hickory-Lenoir-Morganton, NC Metro Area",37,023,"Burke County, North Carolina",37023
+25860,"Hickory-Lenoir-Morganton, NC Metro Area",37,027,"Caldwell County, North Carolina",37027
+25860,"Hickory-Lenoir-Morganton, NC Metro Area",37,035,"Catawba County, North Carolina",37035
+25940,"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",45,013,"Beaufort County, South Carolina",45013
+25940,"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",45,053,"Jasper County, South Carolina",45053
+25980,"Hinesville, GA Metro Area",13,179,"Liberty County, Georgia",13179
+25980,"Hinesville, GA Metro Area",13,183,"Long County, Georgia",13183
+26140,"Homosassa Springs, FL Metro Area",12,017,"Citrus County, Florida",12017
+26300,"Hot Springs, AR Metro Area",05,051,"Garland County, Arkansas",05051
+26380,"Houma-Bayou Cane-Thibodaux, LA Metro Area",22,057,"Lafourche Parish, Louisiana",22057
+26380,"Houma-Bayou Cane-Thibodaux, LA Metro Area",22,109,"Terrebonne Parish, Louisiana",22109
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,015,"Austin County, Texas",48015
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,039,"Brazoria County, Texas",48039
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,071,"Chambers County, Texas",48071
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,157,"Fort Bend County, Texas",48157
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,167,"Galveston County, Texas",48167
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,201,"Harris County, Texas",48201
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,291,"Liberty County, Texas",48291
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,339,"Montgomery County, Texas",48339
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,407,"San Jacinto County, Texas",48407
+26420,"Houston-Pasadena-The Woodlands, TX Metro Area",48,473,"Waller County, Texas",48473
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",21,019,"Boyd County, Kentucky",21019
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",21,043,"Carter County, Kentucky",21043
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",21,089,"Greenup County, Kentucky",21089
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",21,127,"Lawrence County, Kentucky",21127
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",39,087,"Lawrence County, Ohio",39087
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",54,011,"Cabell County, West Virginia",54011
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",54,079,"Putnam County, West Virginia",54079
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",54,099,"Wayne County, West Virginia",54099
+26620,"Huntsville, AL Metro Area",01,083,"Limestone County, Alabama",01083
+26620,"Huntsville, AL Metro Area",01,089,"Madison County, Alabama",01089
+26820,"Idaho Falls, ID Metro Area",16,019,"Bonneville County, Idaho",16019
+26820,"Idaho Falls, ID Metro Area",16,023,"Butte County, Idaho",16023
+26820,"Idaho Falls, ID Metro Area",16,051,"Jefferson County, Idaho",16051
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,011,"Boone County, Indiana",18011
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,013,"Brown County, Indiana",18013
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,057,"Hamilton County, Indiana",18057
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,059,"Hancock County, Indiana",18059
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,063,"Hendricks County, Indiana",18063
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,081,"Johnson County, Indiana",18081
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,095,"Madison County, Indiana",18095
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,097,"Marion County, Indiana",18097
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,109,"Morgan County, Indiana",18109
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,145,"Shelby County, Indiana",18145
+26900,"Indianapolis-Carmel-Greenwood, IN Metro Area",18,159,"Tipton County, Indiana",18159
+26980,"Iowa City, IA Metro Area",19,103,"Johnson County, Iowa",19103
+26980,"Iowa City, IA Metro Area",19,183,"Washington County, Iowa",19183
+27060,"Ithaca, NY Metro Area",36,109,"Tompkins County, New York",36109
+27100,"Jackson, MI Metro Area",26,075,"Jackson County, Michigan",26075
+27140,"Jackson, MS Metro Area",28,029,"Copiah County, Mississippi",28029
+27140,"Jackson, MS Metro Area",28,049,"Hinds County, Mississippi",28049
+27140,"Jackson, MS Metro Area",28,051,"Holmes County, Mississippi",28051
+27140,"Jackson, MS Metro Area",28,089,"Madison County, Mississippi",28089
+27140,"Jackson, MS Metro Area",28,121,"Rankin County, Mississippi",28121
+27140,"Jackson, MS Metro Area",28,123,"Scott County, Mississippi",28123
+27140,"Jackson, MS Metro Area",28,127,"Simpson County, Mississippi",28127
+27140,"Jackson, MS Metro Area",28,163,"Yazoo County, Mississippi",28163
+27180,"Jackson, TN Metro Area",47,023,"Chester County, Tennessee",47023
+27180,"Jackson, TN Metro Area",47,033,"Crockett County, Tennessee",47033
+27180,"Jackson, TN Metro Area",47,053,"Gibson County, Tennessee",47053
+27180,"Jackson, TN Metro Area",47,113,"Madison County, Tennessee",47113
+27260,"Jacksonville, FL Metro Area",12,003,"Baker County, Florida",12003
+27260,"Jacksonville, FL Metro Area",12,019,"Clay County, Florida",12019
+27260,"Jacksonville, FL Metro Area",12,031,"Duval County, Florida",12031
+27260,"Jacksonville, FL Metro Area",12,089,"Nassau County, Florida",12089
+27260,"Jacksonville, FL Metro Area",12,109,"St. Johns County, Florida",12109
+27340,"Jacksonville, NC Metro Area",37,133,"Onslow County, North Carolina",37133
+27500,"Janesville-Beloit, WI Metro Area",55,105,"Rock County, Wisconsin",55105
+27620,"Jefferson City, MO Metro Area",29,027,"Callaway County, Missouri",29027
+27620,"Jefferson City, MO Metro Area",29,051,"Cole County, Missouri",29051
+27620,"Jefferson City, MO Metro Area",29,135,"Moniteau County, Missouri",29135
+27620,"Jefferson City, MO Metro Area",29,151,"Osage County, Missouri",29151
+27740,"Johnson City, TN Metro Area",47,019,"Carter County, Tennessee",47019
+27740,"Johnson City, TN Metro Area",47,171,"Unicoi County, Tennessee",47171
+27740,"Johnson City, TN Metro Area",47,179,"Washington County, Tennessee",47179
+27780,"Johnstown, PA Metro Area",42,021,"Cambria County, Pennsylvania",42021
+27860,"Jonesboro, AR Metro Area",05,031,"Craighead County, Arkansas",05031
+27860,"Jonesboro, AR Metro Area",05,111,"Poinsett County, Arkansas",05111
+27900,"Joplin, MO-KS Metro Area",20,021,"Cherokee County, Kansas",20021
+27900,"Joplin, MO-KS Metro Area",29,097,"Jasper County, Missouri",29097
+27900,"Joplin, MO-KS Metro Area",29,145,"Newton County, Missouri",29145
+27980,"Kahului-Wailuku, HI Metro Area",15,005,"Kalawao County, Hawaii",15005
+27980,"Kahului-Wailuku, HI Metro Area",15,009,"Maui County, Hawaii",15009
+28020,"Kalamazoo-Portage, MI Metro Area",26,077,"Kalamazoo County, Michigan",26077
+28100,"Kankakee, IL Metro Area",17,091,"Kankakee County, Illinois",17091
+28140,"Kansas City, MO-KS Metro Area",20,091,"Johnson County, Kansas",20091
+28140,"Kansas City, MO-KS Metro Area",20,103,"Leavenworth County, Kansas",20103
+28140,"Kansas City, MO-KS Metro Area",20,107,"Linn County, Kansas",20107
+28140,"Kansas City, MO-KS Metro Area",20,121,"Miami County, Kansas",20121
+28140,"Kansas City, MO-KS Metro Area",20,209,"Wyandotte County, Kansas",20209
+28140,"Kansas City, MO-KS Metro Area",29,013,"Bates County, Missouri",29013
+28140,"Kansas City, MO-KS Metro Area",29,025,"Caldwell County, Missouri",29025
+28140,"Kansas City, MO-KS Metro Area",29,037,"Cass County, Missouri",29037
+28140,"Kansas City, MO-KS Metro Area",29,047,"Clay County, Missouri",29047
+28140,"Kansas City, MO-KS Metro Area",29,049,"Clinton County, Missouri",29049
+28140,"Kansas City, MO-KS Metro Area",29,095,"Jackson County, Missouri",29095
+28140,"Kansas City, MO-KS Metro Area",29,107,"Lafayette County, Missouri",29107
+28140,"Kansas City, MO-KS Metro Area",29,165,"Platte County, Missouri",29165
+28140,"Kansas City, MO-KS Metro Area",29,177,"Ray County, Missouri",29177
+28420,"Kennewick-Richland, WA Metro Area",53,005,"Benton County, Washington",53005
+28420,"Kennewick-Richland, WA Metro Area",53,021,"Franklin County, Washington",53021
+28450,"Kenosha, WI Metro Area",55,059,"Kenosha County, Wisconsin",55059
+28660,"Killeen-Temple, TX Metro Area",48,027,"Bell County, Texas",48027
+28660,"Killeen-Temple, TX Metro Area",48,099,"Coryell County, Texas",48099
+28660,"Killeen-Temple, TX Metro Area",48,281,"Lampasas County, Texas",48281
+28700,"Kingsport-Bristol, TN-VA Metro Area",47,073,"Hawkins County, Tennessee",47073
+28700,"Kingsport-Bristol, TN-VA Metro Area",47,163,"Sullivan County, Tennessee",47163
+28700,"Kingsport-Bristol, TN-VA Metro Area",51,169,"Scott County, Virginia",51169
+28700,"Kingsport-Bristol, TN-VA Metro Area",51,191,"Washington County, Virginia",51191
+28700,"Kingsport-Bristol, TN-VA Metro Area",51,520,"Bristol city, Virginia",51520
+28740,"Kingston, NY Metro Area",36,111,"Ulster County, New York",36111
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY Metro Area",36,027,"Dutchess County, New York",36027
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY Metro Area",36,071,"Orange County, New York",36071
+28940,"Knoxville, TN Metro Area",47,001,"Anderson County, Tennessee",47001
+28940,"Knoxville, TN Metro Area",47,009,"Blount County, Tennessee",47009
+28940,"Knoxville, TN Metro Area",47,013,"Campbell County, Tennessee",47013
+28940,"Knoxville, TN Metro Area",47,057,"Grainger County, Tennessee",47057
+28940,"Knoxville, TN Metro Area",47,093,"Knox County, Tennessee",47093
+28940,"Knoxville, TN Metro Area",47,105,"Loudon County, Tennessee",47105
+28940,"Knoxville, TN Metro Area",47,129,"Morgan County, Tennessee",47129
+28940,"Knoxville, TN Metro Area",47,145,"Roane County, Tennessee",47145
+28940,"Knoxville, TN Metro Area",47,173,"Union County, Tennessee",47173
+29020,"Kokomo, IN Metro Area",18,067,"Howard County, Indiana",18067
+29100,"La Crosse-Onalaska, WI-MN Metro Area",27,055,"Houston County, Minnesota",27055
+29100,"La Crosse-Onalaska, WI-MN Metro Area",55,063,"La Crosse County, Wisconsin",55063
+29100,"La Crosse-Onalaska, WI-MN Metro Area",55,123,"Vernon County, Wisconsin",55123
+29180,"Lafayette, LA Metro Area",22,001,"Acadia Parish, Louisiana",22001
+29180,"Lafayette, LA Metro Area",22,055,"Lafayette Parish, Louisiana",22055
+29180,"Lafayette, LA Metro Area",22,099,"St. Martin Parish, Louisiana",22099
+29180,"Lafayette, LA Metro Area",22,113,"Vermilion Parish, Louisiana",22113
+29200,"Lafayette-West Lafayette, IN Metro Area",18,007,"Benton County, Indiana",18007
+29200,"Lafayette-West Lafayette, IN Metro Area",18,015,"Carroll County, Indiana",18015
+29200,"Lafayette-West Lafayette, IN Metro Area",18,157,"Tippecanoe County, Indiana",18157
+29200,"Lafayette-West Lafayette, IN Metro Area",18,171,"Warren County, Indiana",18171
+29340,"Lake Charles, LA Metro Area",22,019,"Calcasieu Parish, Louisiana",22019
+29340,"Lake Charles, LA Metro Area",22,023,"Cameron Parish, Louisiana",22023
+29340,"Lake Charles, LA Metro Area",22,053,"Jefferson Davis Parish, Louisiana",22053
+29420,"Lake Havasu City-Kingman, AZ Metro Area",04,015,"Mohave County, Arizona",04015
+29460,"Lakeland-Winter Haven, FL Metro Area",12,105,"Polk County, Florida",12105
+29540,"Lancaster, PA Metro Area",42,071,"Lancaster County, Pennsylvania",42071
+29620,"Lansing-East Lansing, MI Metro Area",26,037,"Clinton County, Michigan",26037
+29620,"Lansing-East Lansing, MI Metro Area",26,045,"Eaton County, Michigan",26045
+29620,"Lansing-East Lansing, MI Metro Area",26,065,"Ingham County, Michigan",26065
+29700,"Laredo, TX Metro Area",48,479,"Webb County, Texas",48479
+29740,"Las Cruces, NM Metro Area",35,013,"Do�a Ana County, New Mexico",35013
+29820,"Las Vegas-Henderson-North Las Vegas, NV Metro Area",32,003,"Clark County, Nevada",32003
+29940,"Lawrence, KS Metro Area",20,045,"Douglas County, Kansas",20045
+30020,"Lawton, OK Metro Area",40,031,"Comanche County, Oklahoma",40031
+30020,"Lawton, OK Metro Area",40,033,"Cotton County, Oklahoma",40033
+30140,"Lebanon, PA Metro Area",42,075,"Lebanon County, Pennsylvania",42075
+30340,"Lewiston-Auburn, ME Metro Area",23,001,"Androscoggin County, Maine",23001
+30460,"Lexington-Fayette, KY Metro Area",21,017,"Bourbon County, Kentucky",21017
+30460,"Lexington-Fayette, KY Metro Area",21,049,"Clark County, Kentucky",21049
+30460,"Lexington-Fayette, KY Metro Area",21,067,"Fayette County, Kentucky",21067
+30460,"Lexington-Fayette, KY Metro Area",21,113,"Jessamine County, Kentucky",21113
+30460,"Lexington-Fayette, KY Metro Area",21,209,"Scott County, Kentucky",21209
+30460,"Lexington-Fayette, KY Metro Area",21,239,"Woodford County, Kentucky",21239
+30500,"Lexington Park, MD Metro Area",24,009,"Calvert County, Maryland",24009
+30500,"Lexington Park, MD Metro Area",24,037,"St. Mary's County, Maryland",24037
+30620,"Lima, OH Metro Area",39,003,"Allen County, Ohio",39003
+30700,"Lincoln, NE Metro Area",31,109,"Lancaster County, Nebraska",31109
+30700,"Lincoln, NE Metro Area",31,159,"Seward County, Nebraska",31159
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",05,045,"Faulkner County, Arkansas",05045
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",05,053,"Grant County, Arkansas",05053
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",05,085,"Lonoke County, Arkansas",05085
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",05,105,"Perry County, Arkansas",05105
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",05,119,"Pulaski County, Arkansas",05119
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",05,125,"Saline County, Arkansas",05125
+30980,"Longview, TX Metro Area",48,183,"Gregg County, Texas",48183
+30980,"Longview, TX Metro Area",48,203,"Harrison County, Texas",48203
+30980,"Longview, TX Metro Area",48,401,"Rusk County, Texas",48401
+30980,"Longview, TX Metro Area",48,459,"Upshur County, Texas",48459
+31080,"Los Angeles-Long Beach-Anaheim, CA Metro Area",06,037,"Los Angeles County, California",06037
+31080,"Los Angeles-Long Beach-Anaheim, CA Metro Area",06,059,"Orange County, California",06059
+31140,"Louisville/Jefferson County, KY-IN Metro Area",18,019,"Clark County, Indiana",18019
+31140,"Louisville/Jefferson County, KY-IN Metro Area",18,043,"Floyd County, Indiana",18043
+31140,"Louisville/Jefferson County, KY-IN Metro Area",18,061,"Harrison County, Indiana",18061
+31140,"Louisville/Jefferson County, KY-IN Metro Area",18,175,"Washington County, Indiana",18175
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,029,"Bullitt County, Kentucky",21029
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,103,"Henry County, Kentucky",21103
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,111,"Jefferson County, Kentucky",21111
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,163,"Meade County, Kentucky",21163
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,179,"Nelson County, Kentucky",21179
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,185,"Oldham County, Kentucky",21185
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,211,"Shelby County, Kentucky",21211
+31140,"Louisville/Jefferson County, KY-IN Metro Area",21,215,"Spencer County, Kentucky",21215
+31180,"Lubbock, TX Metro Area",48,079,"Cochran County, Texas",48079
+31180,"Lubbock, TX Metro Area",48,107,"Crosby County, Texas",48107
+31180,"Lubbock, TX Metro Area",48,169,"Garza County, Texas",48169
+31180,"Lubbock, TX Metro Area",48,219,"Hockley County, Texas",48219
+31180,"Lubbock, TX Metro Area",48,303,"Lubbock County, Texas",48303
+31180,"Lubbock, TX Metro Area",48,305,"Lynn County, Texas",48305
+31340,"Lynchburg, VA Metro Area",51,009,"Amherst County, Virginia",51009
+31340,"Lynchburg, VA Metro Area",51,011,"Appomattox County, Virginia",51011
+31340,"Lynchburg, VA Metro Area",51,019,"Bedford County, Virginia",51019
+31340,"Lynchburg, VA Metro Area",51,031,"Campbell County, Virginia",51031
+31340,"Lynchburg, VA Metro Area",51,680,"Lynchburg city, Virginia",51680
+31420,"Macon-Bibb County, GA Metro Area",13,021,"Bibb County, Georgia",13021
+31420,"Macon-Bibb County, GA Metro Area",13,079,"Crawford County, Georgia",13079
+31420,"Macon-Bibb County, GA Metro Area",13,169,"Jones County, Georgia",13169
+31420,"Macon-Bibb County, GA Metro Area",13,207,"Monroe County, Georgia",13207
+31420,"Macon-Bibb County, GA Metro Area",13,289,"Twiggs County, Georgia",13289
+31540,"Madison, WI Metro Area",55,021,"Columbia County, Wisconsin",55021
+31540,"Madison, WI Metro Area",55,025,"Dane County, Wisconsin",55025
+31540,"Madison, WI Metro Area",55,045,"Green County, Wisconsin",55045
+31540,"Madison, WI Metro Area",55,049,"Iowa County, Wisconsin",55049
+31700,"Manchester-Nashua, NH Metro Area",33,011,"Hillsborough County, New Hampshire",33011
+31740,"Manhattan, KS Metro Area",20,061,"Geary County, Kansas",20061
+31740,"Manhattan, KS Metro Area",20,149,"Pottawatomie County, Kansas",20149
+31740,"Manhattan, KS Metro Area",20,161,"Riley County, Kansas",20161
+31860,"Mankato, MN Metro Area",27,013,"Blue Earth County, Minnesota",27013
+31860,"Mankato, MN Metro Area",27,103,"Nicollet County, Minnesota",27103
+31900,"Mansfield, OH Metro Area",39,139,"Richland County, Ohio",39139
+32580,"McAllen-Edinburg-Mission, TX Metro Area",48,215,"Hidalgo County, Texas",48215
+32820,"Memphis, TN-MS-AR Metro Area",05,035,"Crittenden County, Arkansas",05035
+32820,"Memphis, TN-MS-AR Metro Area",28,009,"Benton County, Mississippi",28009
+32820,"Memphis, TN-MS-AR Metro Area",28,033,"DeSoto County, Mississippi",28033
+32820,"Memphis, TN-MS-AR Metro Area",28,093,"Marshall County, Mississippi",28093
+32820,"Memphis, TN-MS-AR Metro Area",28,137,"Tate County, Mississippi",28137
+32820,"Memphis, TN-MS-AR Metro Area",28,143,"Tunica County, Mississippi",28143
+32820,"Memphis, TN-MS-AR Metro Area",47,047,"Fayette County, Tennessee",47047
+32820,"Memphis, TN-MS-AR Metro Area",47,157,"Shelby County, Tennessee",47157
+32820,"Memphis, TN-MS-AR Metro Area",47,167,"Tipton County, Tennessee",47167
+32900,"Merced, CA Metro Area",06,047,"Merced County, California",06047
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",12,011,"Broward County, Florida",12011
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",12,086,"Miami-Dade County, Florida",12086
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",12,099,"Palm Beach County, Florida",12099
+33140,"Michigan City-La Porte, IN Metro Area",18,091,"LaPorte County, Indiana",18091
+33220,"Midland, MI Metro Area",26,111,"Midland County, Michigan",26111
+33260,"Midland, TX Metro Area",48,317,"Martin County, Texas",48317
+33260,"Midland, TX Metro Area",48,329,"Midland County, Texas",48329
+33340,"Milwaukee-Waukesha, WI Metro Area",55,079,"Milwaukee County, Wisconsin",55079
+33340,"Milwaukee-Waukesha, WI Metro Area",55,089,"Ozaukee County, Wisconsin",55089
+33340,"Milwaukee-Waukesha, WI Metro Area",55,131,"Washington County, Wisconsin",55131
+33340,"Milwaukee-Waukesha, WI Metro Area",55,133,"Waukesha County, Wisconsin",55133
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,003,"Anoka County, Minnesota",27003
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,019,"Carver County, Minnesota",27019
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,025,"Chisago County, Minnesota",27025
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,037,"Dakota County, Minnesota",27037
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,053,"Hennepin County, Minnesota",27053
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,059,"Isanti County, Minnesota",27059
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,079,"Le Sueur County, Minnesota",27079
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,095,"Mille Lacs County, Minnesota",27095
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,123,"Ramsey County, Minnesota",27123
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,139,"Scott County, Minnesota",27139
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,141,"Sherburne County, Minnesota",27141
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,163,"Washington County, Minnesota",27163
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",27,171,"Wright County, Minnesota",27171
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",55,093,"Pierce County, Wisconsin",55093
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",55,109,"St. Croix County, Wisconsin",55109
+33500,"Minot, ND Metro Area",38,049,"McHenry County, North Dakota",38049
+33500,"Minot, ND Metro Area",38,075,"Renville County, North Dakota",38075
+33500,"Minot, ND Metro Area",38,101,"Ward County, North Dakota",38101
+33660,"Mobile, AL Metro Area",01,097,"Mobile County, Alabama",01097
+33700,"Modesto, CA Metro Area",06,099,"Stanislaus County, California",06099
+33740,"Monroe, LA Metro Area",22,067,"Morehouse Parish, Louisiana",22067
+33740,"Monroe, LA Metro Area",22,073,"Ouachita Parish, Louisiana",22073
+33740,"Monroe, LA Metro Area",22,083,"Richland Parish, Louisiana",22083
+33740,"Monroe, LA Metro Area",22,111,"Union Parish, Louisiana",22111
+33780,"Monroe, MI Metro Area",26,115,"Monroe County, Michigan",26115
+33860,"Montgomery, AL Metro Area",01,001,"Autauga County, Alabama",01001
+33860,"Montgomery, AL Metro Area",01,051,"Elmore County, Alabama",01051
+33860,"Montgomery, AL Metro Area",01,085,"Lowndes County, Alabama",01085
+33860,"Montgomery, AL Metro Area",01,101,"Montgomery County, Alabama",01101
+34060,"Morgantown, WV Metro Area",54,061,"Monongalia County, West Virginia",54061
+34060,"Morgantown, WV Metro Area",54,077,"Preston County, West Virginia",54077
+34100,"Morristown, TN Metro Area",47,063,"Hamblen County, Tennessee",47063
+34100,"Morristown, TN Metro Area",47,089,"Jefferson County, Tennessee",47089
+34580,"Mount Vernon-Anacortes, WA Metro Area",53,057,"Skagit County, Washington",53057
+34620,"Muncie, IN Metro Area",18,035,"Delaware County, Indiana",18035
+34740,"Muskegon-Norton Shores, MI Metro Area",26,121,"Muskegon County, Michigan",26121
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",45,051,"Horry County, South Carolina",45051
+34900,"Napa, CA Metro Area",06,055,"Napa County, California",06055
+34940,"Naples-Marco Island, FL Metro Area",12,021,"Collier County, Florida",12021
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,015,"Cannon County, Tennessee",47015
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,021,"Cheatham County, Tennessee",47021
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,037,"Davidson County, Tennessee",47037
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,043,"Dickson County, Tennessee",47043
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,081,"Hickman County, Tennessee",47081
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,111,"Macon County, Tennessee",47111
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,119,"Maury County, Tennessee",47119
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,147,"Robertson County, Tennessee",47147
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,149,"Rutherford County, Tennessee",47149
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,159,"Smith County, Tennessee",47159
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,165,"Sumner County, Tennessee",47165
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,169,"Trousdale County, Tennessee",47169
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,187,"Williamson County, Tennessee",47187
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",47,189,"Wilson County, Tennessee",47189
+35300,"New Haven, CT Metro Area",09,170,"South Central Connecticut Planning Region, Connecticut",09170
+35380,"New Orleans-Metairie, LA Metro Area",22,051,"Jefferson Parish, Louisiana",22051
+35380,"New Orleans-Metairie, LA Metro Area",22,071,"Orleans Parish, Louisiana",22071
+35380,"New Orleans-Metairie, LA Metro Area",22,075,"Plaquemines Parish, Louisiana",22075
+35380,"New Orleans-Metairie, LA Metro Area",22,087,"St. Bernard Parish, Louisiana",22087
+35380,"New Orleans-Metairie, LA Metro Area",22,089,"St. Charles Parish, Louisiana",22089
+35380,"New Orleans-Metairie, LA Metro Area",22,093,"St. James Parish, Louisiana",22093
+35380,"New Orleans-Metairie, LA Metro Area",22,095,"St. John the Baptist Parish, Louisiana",22095
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,003,"Bergen County, New Jersey",34003
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,013,"Essex County, New Jersey",34013
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,017,"Hudson County, New Jersey",34017
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,019,"Hunterdon County, New Jersey",34019
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,023,"Middlesex County, New Jersey",34023
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,025,"Monmouth County, New Jersey",34025
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,027,"Morris County, New Jersey",34027
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,029,"Ocean County, New Jersey",34029
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,031,"Passaic County, New Jersey",34031
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,035,"Somerset County, New Jersey",34035
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,037,"Sussex County, New Jersey",34037
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",34,039,"Union County, New Jersey",34039
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,005,"Bronx County, New York",36005
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,047,"Kings County, New York",36047
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,059,"Nassau County, New York",36059
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,061,"New York County, New York",36061
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,079,"Putnam County, New York",36079
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,081,"Queens County, New York",36081
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,085,"Richmond County, New York",36085
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,087,"Rockland County, New York",36087
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,103,"Suffolk County, New York",36103
+35620,"New York-Newark-Jersey City, NY-NJ Metro Area",36,119,"Westchester County, New York",36119
+35660,"Niles, MI Metro Area",26,021,"Berrien County, Michigan",26021
+35840,"North Port-Bradenton-Sarasota, FL Metro Area",12,081,"Manatee County, Florida",12081
+35840,"North Port-Bradenton-Sarasota, FL Metro Area",12,115,"Sarasota County, Florida",12115
+35980,"Norwich-New London-Willimantic, CT Metro Area",09,180,"Southeastern Connecticut Planning Region, Connecticut",09180
+36100,"Ocala, FL Metro Area",12,083,"Marion County, Florida",12083
+36220,"Odessa, TX Metro Area",48,135,"Ector County, Texas",48135
+36260,"Ogden, UT Metro Area",49,011,"Davis County, Utah",49011
+36260,"Ogden, UT Metro Area",49,029,"Morgan County, Utah",49029
+36260,"Ogden, UT Metro Area",49,057,"Weber County, Utah",49057
+36420,"Oklahoma City, OK Metro Area",40,017,"Canadian County, Oklahoma",40017
+36420,"Oklahoma City, OK Metro Area",40,027,"Cleveland County, Oklahoma",40027
+36420,"Oklahoma City, OK Metro Area",40,051,"Grady County, Oklahoma",40051
+36420,"Oklahoma City, OK Metro Area",40,081,"Lincoln County, Oklahoma",40081
+36420,"Oklahoma City, OK Metro Area",40,083,"Logan County, Oklahoma",40083
+36420,"Oklahoma City, OK Metro Area",40,087,"McClain County, Oklahoma",40087
+36420,"Oklahoma City, OK Metro Area",40,109,"Oklahoma County, Oklahoma",40109
+36500,"Olympia-Lacey-Tumwater, WA Metro Area",53,067,"Thurston County, Washington",53067
+36540,"Omaha, NE-IA Metro Area",19,085,"Harrison County, Iowa",19085
+36540,"Omaha, NE-IA Metro Area",19,129,"Mills County, Iowa",19129
+36540,"Omaha, NE-IA Metro Area",19,155,"Pottawattamie County, Iowa",19155
+36540,"Omaha, NE-IA Metro Area",31,025,"Cass County, Nebraska",31025
+36540,"Omaha, NE-IA Metro Area",31,055,"Douglas County, Nebraska",31055
+36540,"Omaha, NE-IA Metro Area",31,153,"Sarpy County, Nebraska",31153
+36540,"Omaha, NE-IA Metro Area",31,155,"Saunders County, Nebraska",31155
+36540,"Omaha, NE-IA Metro Area",31,177,"Washington County, Nebraska",31177
+36740,"Orlando-Kissimmee-Sanford, FL Metro Area",12,069,"Lake County, Florida",12069
+36740,"Orlando-Kissimmee-Sanford, FL Metro Area",12,095,"Orange County, Florida",12095
+36740,"Orlando-Kissimmee-Sanford, FL Metro Area",12,097,"Osceola County, Florida",12097
+36740,"Orlando-Kissimmee-Sanford, FL Metro Area",12,117,"Seminole County, Florida",12117
+36780,"Oshkosh-Neenah, WI Metro Area",55,139,"Winnebago County, Wisconsin",55139
+36980,"Owensboro, KY Metro Area",21,059,"Daviess County, Kentucky",21059
+36980,"Owensboro, KY Metro Area",21,149,"McLean County, Kentucky",21149
+37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",06,111,"Ventura County, California",06111
+37140,"Paducah, KY-IL Metro Area",17,127,"Massac County, Illinois",17127
+37140,"Paducah, KY-IL Metro Area",21,007,"Ballard County, Kentucky",21007
+37140,"Paducah, KY-IL Metro Area",21,039,"Carlisle County, Kentucky",21039
+37140,"Paducah, KY-IL Metro Area",21,139,"Livingston County, Kentucky",21139
+37140,"Paducah, KY-IL Metro Area",21,145,"McCracken County, Kentucky",21145
+37340,"Palm Bay-Melbourne-Titusville, FL Metro Area",12,009,"Brevard County, Florida",12009
+37460,"Panama City-Panama City Beach, FL Metro Area",12,005,"Bay County, Florida",12005
+37460,"Panama City-Panama City Beach, FL Metro Area",12,133,"Washington County, Florida",12133
+37620,"Parkersburg-Vienna, WV Metro Area",54,105,"Wirt County, West Virginia",54105
+37620,"Parkersburg-Vienna, WV Metro Area",54,107,"Wood County, West Virginia",54107
+37860,"Pensacola-Ferry Pass-Brent, FL Metro Area",12,033,"Escambia County, Florida",12033
+37860,"Pensacola-Ferry Pass-Brent, FL Metro Area",12,113,"Santa Rosa County, Florida",12113
+37900,"Peoria, IL Metro Area",17,123,"Marshall County, Illinois",17123
+37900,"Peoria, IL Metro Area",17,143,"Peoria County, Illinois",17143
+37900,"Peoria, IL Metro Area",17,175,"Stark County, Illinois",17175
+37900,"Peoria, IL Metro Area",17,179,"Tazewell County, Illinois",17179
+37900,"Peoria, IL Metro Area",17,203,"Woodford County, Illinois",17203
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",10,003,"New Castle County, Delaware",10003
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",24,015,"Cecil County, Maryland",24015
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",34,005,"Burlington County, New Jersey",34005
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",34,007,"Camden County, New Jersey",34007
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",34,015,"Gloucester County, New Jersey",34015
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",34,033,"Salem County, New Jersey",34033
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",42,017,"Bucks County, Pennsylvania",42017
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",42,029,"Chester County, Pennsylvania",42029
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",42,045,"Delaware County, Pennsylvania",42045
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",42,091,"Montgomery County, Pennsylvania",42091
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",42,101,"Philadelphia County, Pennsylvania",42101
+38060,"Phoenix-Mesa-Chandler, AZ Metro Area",04,013,"Maricopa County, Arizona",04013
+38060,"Phoenix-Mesa-Chandler, AZ Metro Area",04,021,"Pinal County, Arizona",04021
+38240,"Pinehurst-Southern Pines, NC Metro Area",37,125,"Moore County, North Carolina",37125
+38300,"Pittsburgh, PA Metro Area",42,003,"Allegheny County, Pennsylvania",42003
+38300,"Pittsburgh, PA Metro Area",42,005,"Armstrong County, Pennsylvania",42005
+38300,"Pittsburgh, PA Metro Area",42,007,"Beaver County, Pennsylvania",42007
+38300,"Pittsburgh, PA Metro Area",42,019,"Butler County, Pennsylvania",42019
+38300,"Pittsburgh, PA Metro Area",42,051,"Fayette County, Pennsylvania",42051
+38300,"Pittsburgh, PA Metro Area",42,073,"Lawrence County, Pennsylvania",42073
+38300,"Pittsburgh, PA Metro Area",42,125,"Washington County, Pennsylvania",42125
+38300,"Pittsburgh, PA Metro Area",42,129,"Westmoreland County, Pennsylvania",42129
+38340,"Pittsfield, MA Metro Area",25,003,"Berkshire County, Massachusetts",25003
+38540,"Pocatello, ID Metro Area",16,005,"Bannock County, Idaho",16005
+38860,"Portland-South Portland, ME Metro Area",23,005,"Cumberland County, Maine",23005
+38860,"Portland-South Portland, ME Metro Area",23,023,"Sagadahoc County, Maine",23023
+38860,"Portland-South Portland, ME Metro Area",23,031,"York County, Maine",23031
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",41,005,"Clackamas County, Oregon",41005
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",41,009,"Columbia County, Oregon",41009
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",41,051,"Multnomah County, Oregon",41051
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",41,067,"Washington County, Oregon",41067
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",41,071,"Yamhill County, Oregon",41071
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",53,011,"Clark County, Washington",53011
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",53,059,"Skamania County, Washington",53059
+38940,"Port St. Lucie, FL Metro Area",12,085,"Martin County, Florida",12085
+38940,"Port St. Lucie, FL Metro Area",12,111,"St. Lucie County, Florida",12111
+39150,"Prescott Valley-Prescott, AZ Metro Area",04,025,"Yavapai County, Arizona",04025
+39300,"Providence-Warwick, RI-MA Metro Area",25,005,"Bristol County, Massachusetts",25005
+39300,"Providence-Warwick, RI-MA Metro Area",44,001,"Bristol County, Rhode Island",44001
+39300,"Providence-Warwick, RI-MA Metro Area",44,003,"Kent County, Rhode Island",44003
+39300,"Providence-Warwick, RI-MA Metro Area",44,005,"Newport County, Rhode Island",44005
+39300,"Providence-Warwick, RI-MA Metro Area",44,007,"Providence County, Rhode Island",44007
+39300,"Providence-Warwick, RI-MA Metro Area",44,009,"Washington County, Rhode Island",44009
+39300,"Providence-Warwick, RI-MA Metro Area",44,999,"Statewide, Rhode Island",44999
+39340,"Provo-Orem-Lehi, UT Metro Area",49,023,"Juab County, Utah",49023
+39340,"Provo-Orem-Lehi, UT Metro Area",49,049,"Utah County, Utah",49049
+39380,"Pueblo, CO Metro Area",08,101,"Pueblo County, Colorado",08101
+39460,"Punta Gorda, FL Metro Area",12,015,"Charlotte County, Florida",12015
+39540,"Racine-Mount Pleasant, WI Metro Area",55,101,"Racine County, Wisconsin",55101
+39580,"Raleigh-Cary, NC Metro Area",37,069,"Franklin County, North Carolina",37069
+39580,"Raleigh-Cary, NC Metro Area",37,101,"Johnston County, North Carolina",37101
+39580,"Raleigh-Cary, NC Metro Area",37,183,"Wake County, North Carolina",37183
+39660,"Rapid City, SD Metro Area",46,033,"Custer County, South Dakota",46033
+39660,"Rapid City, SD Metro Area",46,093,"Meade County, South Dakota",46093
+39660,"Rapid City, SD Metro Area",46,103,"Pennington County, South Dakota",46103
+39740,"Reading, PA Metro Area",42,011,"Berks County, Pennsylvania",42011
+39820,"Redding, CA Metro Area",06,089,"Shasta County, California",06089
+39900,"Reno, NV Metro Area",32,019,"Lyon County, Nevada",32019
+39900,"Reno, NV Metro Area",32,029,"Storey County, Nevada",32029
+39900,"Reno, NV Metro Area",32,031,"Washoe County, Nevada",32031
+40060,"Richmond, VA Metro Area",51,007,"Amelia County, Virginia",51007
+40060,"Richmond, VA Metro Area",51,036,"Charles City County, Virginia",51036
+40060,"Richmond, VA Metro Area",51,041,"Chesterfield County, Virginia",51041
+40060,"Richmond, VA Metro Area",51,053,"Dinwiddie County, Virginia",51053
+40060,"Richmond, VA Metro Area",51,075,"Goochland County, Virginia",51075
+40060,"Richmond, VA Metro Area",51,085,"Hanover County, Virginia",51085
+40060,"Richmond, VA Metro Area",51,087,"Henrico County, Virginia",51087
+40060,"Richmond, VA Metro Area",51,097,"King and Queen County, Virginia",51097
+40060,"Richmond, VA Metro Area",51,101,"King William County, Virginia",51101
+40060,"Richmond, VA Metro Area",51,127,"New Kent County, Virginia",51127
+40060,"Richmond, VA Metro Area",51,145,"Powhatan County, Virginia",51145
+40060,"Richmond, VA Metro Area",51,149,"Prince George County, Virginia",51149
+40060,"Richmond, VA Metro Area",51,183,"Sussex County, Virginia",51183
+40060,"Richmond, VA Metro Area",51,570,"Colonial Heights city, Virginia",51570
+40060,"Richmond, VA Metro Area",51,670,"Hopewell city, Virginia",51670
+40060,"Richmond, VA Metro Area",51,730,"Petersburg city, Virginia",51730
+40060,"Richmond, VA Metro Area",51,760,"Richmond city, Virginia",51760
+40140,"Riverside-San Bernardino-Ontario, CA Metro Area",06,065,"Riverside County, California",06065
+40140,"Riverside-San Bernardino-Ontario, CA Metro Area",06,071,"San Bernardino County, California",06071
+40220,"Roanoke, VA Metro Area",51,023,"Botetourt County, Virginia",51023
+40220,"Roanoke, VA Metro Area",51,045,"Craig County, Virginia",51045
+40220,"Roanoke, VA Metro Area",51,067,"Franklin County, Virginia",51067
+40220,"Roanoke, VA Metro Area",51,161,"Roanoke County, Virginia",51161
+40220,"Roanoke, VA Metro Area",51,770,"Roanoke city, Virginia",51770
+40220,"Roanoke, VA Metro Area",51,775,"Salem city, Virginia",51775
+40340,"Rochester, MN Metro Area",27,039,"Dodge County, Minnesota",27039
+40340,"Rochester, MN Metro Area",27,045,"Fillmore County, Minnesota",27045
+40340,"Rochester, MN Metro Area",27,109,"Olmsted County, Minnesota",27109
+40340,"Rochester, MN Metro Area",27,157,"Wabasha County, Minnesota",27157
+40380,"Rochester, NY Metro Area",36,051,"Livingston County, New York",36051
+40380,"Rochester, NY Metro Area",36,055,"Monroe County, New York",36055
+40380,"Rochester, NY Metro Area",36,069,"Ontario County, New York",36069
+40380,"Rochester, NY Metro Area",36,073,"Orleans County, New York",36073
+40380,"Rochester, NY Metro Area",36,117,"Wayne County, New York",36117
+40420,"Rockford, IL Metro Area",17,007,"Boone County, Illinois",17007
+40420,"Rockford, IL Metro Area",17,201,"Winnebago County, Illinois",17201
+40580,"Rocky Mount, NC Metro Area",37,065,"Edgecombe County, North Carolina",37065
+40580,"Rocky Mount, NC Metro Area",37,127,"Nash County, North Carolina",37127
+40660,"Rome, GA Metro Area",13,115,"Floyd County, Georgia",13115
+40900,"Sacramento-Roseville-Folsom, CA Metro Area",06,017,"El Dorado County, California",06017
+40900,"Sacramento-Roseville-Folsom, CA Metro Area",06,061,"Placer County, California",06061
+40900,"Sacramento-Roseville-Folsom, CA Metro Area",06,067,"Sacramento County, California",06067
+40900,"Sacramento-Roseville-Folsom, CA Metro Area",06,113,"Yolo County, California",06113
+40980,"Saginaw, MI Metro Area",26,145,"Saginaw County, Michigan",26145
+41060,"St. Cloud, MN Metro Area",27,009,"Benton County, Minnesota",27009
+41060,"St. Cloud, MN Metro Area",27,145,"Stearns County, Minnesota",27145
+41100,"St. George, UT Metro Area",49,053,"Washington County, Utah",49053
+41140,"St. Joseph, MO-KS Metro Area",20,043,"Doniphan County, Kansas",20043
+41140,"St. Joseph, MO-KS Metro Area",29,003,"Andrew County, Missouri",29003
+41140,"St. Joseph, MO-KS Metro Area",29,021,"Buchanan County, Missouri",29021
+41140,"St. Joseph, MO-KS Metro Area",29,063,"DeKalb County, Missouri",29063
+41180,"St. Louis, MO-IL Metro Area",17,005,"Bond County, Illinois",17005
+41180,"St. Louis, MO-IL Metro Area",17,013,"Calhoun County, Illinois",17013
+41180,"St. Louis, MO-IL Metro Area",17,027,"Clinton County, Illinois",17027
+41180,"St. Louis, MO-IL Metro Area",17,083,"Jersey County, Illinois",17083
+41180,"St. Louis, MO-IL Metro Area",17,117,"Macoupin County, Illinois",17117
+41180,"St. Louis, MO-IL Metro Area",17,119,"Madison County, Illinois",17119
+41180,"St. Louis, MO-IL Metro Area",17,133,"Monroe County, Illinois",17133
+41180,"St. Louis, MO-IL Metro Area",17,163,"St. Clair County, Illinois",17163
+41180,"St. Louis, MO-IL Metro Area",29,071,"Franklin County, Missouri",29071
+41180,"St. Louis, MO-IL Metro Area",29,099,"Jefferson County, Missouri",29099
+41180,"St. Louis, MO-IL Metro Area",29,113,"Lincoln County, Missouri",29113
+41180,"St. Louis, MO-IL Metro Area",29,183,"St. Charles County, Missouri",29183
+41180,"St. Louis, MO-IL Metro Area",29,189,"St. Louis County, Missouri",29189
+41180,"St. Louis, MO-IL Metro Area",29,219,"Warren County, Missouri",29219
+41180,"St. Louis, MO-IL Metro Area",29,510,"St. Louis city, Missouri",29510
+41420,"Salem, OR Metro Area",41,047,"Marion County, Oregon",41047
+41420,"Salem, OR Metro Area",41,053,"Polk County, Oregon",41053
+41500,"Salinas, CA Metro Area",06,053,"Monterey County, California",06053
+41540,"Salisbury, MD Metro Area",24,039,"Somerset County, Maryland",24039
+41540,"Salisbury, MD Metro Area",24,045,"Wicomico County, Maryland",24045
+41620,"Salt Lake City-Murray, UT Metro Area",49,035,"Salt Lake County, Utah",49035
+41620,"Salt Lake City-Murray, UT Metro Area",49,045,"Tooele County, Utah",49045
+41660,"San Angelo, TX Metro Area",48,235,"Irion County, Texas",48235
+41660,"San Angelo, TX Metro Area",48,451,"Tom Green County, Texas",48451
+41700,"San Antonio-New Braunfels, TX Metro Area",48,013,"Atascosa County, Texas",48013
+41700,"San Antonio-New Braunfels, TX Metro Area",48,019,"Bandera County, Texas",48019
+41700,"San Antonio-New Braunfels, TX Metro Area",48,029,"Bexar County, Texas",48029
+41700,"San Antonio-New Braunfels, TX Metro Area",48,091,"Comal County, Texas",48091
+41700,"San Antonio-New Braunfels, TX Metro Area",48,187,"Guadalupe County, Texas",48187
+41700,"San Antonio-New Braunfels, TX Metro Area",48,259,"Kendall County, Texas",48259
+41700,"San Antonio-New Braunfels, TX Metro Area",48,325,"Medina County, Texas",48325
+41700,"San Antonio-New Braunfels, TX Metro Area",48,493,"Wilson County, Texas",48493
+41740,"San Diego-Chula Vista-Carlsbad, CA Metro Area",06,073,"San Diego County, California",06073
+41780,"Sandusky, OH Metro Area",39,043,"Erie County, Ohio",39043
+41780,"Sandusky, OH Metro Area",39,123,"Ottawa County, Ohio",39123
+41860,"San Francisco-Oakland-Fremont, CA Metro Area",06,001,"Alameda County, California",06001
+41860,"San Francisco-Oakland-Fremont, CA Metro Area",06,013,"Contra Costa County, California",06013
+41860,"San Francisco-Oakland-Fremont, CA Metro Area",06,041,"Marin County, California",06041
+41860,"San Francisco-Oakland-Fremont, CA Metro Area",06,075,"San Francisco County, California",06075
+41860,"San Francisco-Oakland-Fremont, CA Metro Area",06,081,"San Mateo County, California",06081
+41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",06,069,"San Benito County, California",06069
+41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",06,085,"Santa Clara County, California",06085
+42020,"San Luis Obispo-Paso Robles, CA Metro Area",06,079,"San Luis Obispo County, California",06079
+42100,"Santa Cruz-Watsonville, CA Metro Area",06,087,"Santa Cruz County, California",06087
+42140,"Santa Fe, NM Metro Area",35,049,"Santa Fe County, New Mexico",35049
+42200,"Santa Maria-Santa Barbara, CA Metro Area",06,083,"Santa Barbara County, California",06083
+42220,"Santa Rosa-Petaluma, CA Metro Area",06,097,"Sonoma County, California",06097
+42340,"Savannah, GA Metro Area",13,029,"Bryan County, Georgia",13029
+42340,"Savannah, GA Metro Area",13,051,"Chatham County, Georgia",13051
+42340,"Savannah, GA Metro Area",13,103,"Effingham County, Georgia",13103
+42540,"Scranton--Wilkes-Barre, PA Metro Area",42,069,"Lackawanna County, Pennsylvania",42069
+42540,"Scranton--Wilkes-Barre, PA Metro Area",42,079,"Luzerne County, Pennsylvania",42079
+42540,"Scranton--Wilkes-Barre, PA Metro Area",42,131,"Wyoming County, Pennsylvania",42131
+42660,"Seattle-Tacoma-Bellevue, WA Metro Area",53,033,"King County, Washington",53033
+42660,"Seattle-Tacoma-Bellevue, WA Metro Area",53,053,"Pierce County, Washington",53053
+42660,"Seattle-Tacoma-Bellevue, WA Metro Area",53,061,"Snohomish County, Washington",53061
+42680,"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",12,061,"Indian River County, Florida",12061
+42700,"Sebring, FL Metro Area",12,055,"Highlands County, Florida",12055
+43100,"Sheboygan, WI Metro Area",55,117,"Sheboygan County, Wisconsin",55117
+43300,"Sherman-Denison, TX Metro Area",48,181,"Grayson County, Texas",48181
+43340,"Shreveport-Bossier City, LA Metro Area",22,015,"Bossier Parish, Louisiana",22015
+43340,"Shreveport-Bossier City, LA Metro Area",22,017,"Caddo Parish, Louisiana",22017
+43340,"Shreveport-Bossier City, LA Metro Area",22,031,"De Soto Parish, Louisiana",22031
+43420,"Sierra Vista-Douglas, AZ Metro Area",04,003,"Cochise County, Arizona",04003
+43580,"Sioux City, IA-NE-SD Metro Area",19,193,"Woodbury County, Iowa",19193
+43580,"Sioux City, IA-NE-SD Metro Area",31,043,"Dakota County, Nebraska",31043
+43580,"Sioux City, IA-NE-SD Metro Area",46,127,"Union County, South Dakota",46127
+43620,"Sioux Falls, SD-MN Metro Area",27,133,"Rock County, Minnesota",27133
+43620,"Sioux Falls, SD-MN Metro Area",46,083,"Lincoln County, South Dakota",46083
+43620,"Sioux Falls, SD-MN Metro Area",46,087,"McCook County, South Dakota",46087
+43620,"Sioux Falls, SD-MN Metro Area",46,099,"Minnehaha County, South Dakota",46099
+43620,"Sioux Falls, SD-MN Metro Area",46,125,"Turner County, South Dakota",46125
+43640,"Slidell-Mandeville-Covington, LA Metro Area",22,103,"St. Tammany Parish, Louisiana",22103
+43780,"South Bend-Mishawaka, IN-MI Metro Area",18,141,"St. Joseph County, Indiana",18141
+43780,"South Bend-Mishawaka, IN-MI Metro Area",26,027,"Cass County, Michigan",26027
+43900,"Spartanburg, SC Metro Area",45,083,"Spartanburg County, South Carolina",45083
+43900,"Spartanburg, SC Metro Area",45,087,"Union County, South Carolina",45087
+44060,"Spokane-Spokane Valley, WA Metro Area",53,063,"Spokane County, Washington",53063
+44060,"Spokane-Spokane Valley, WA Metro Area",53,065,"Stevens County, Washington",53065
+44100,"Springfield, IL Metro Area",17,129,"Menard County, Illinois",17129
+44100,"Springfield, IL Metro Area",17,167,"Sangamon County, Illinois",17167
+44140,"Springfield, MA Metro Area",25,013,"Hampden County, Massachusetts",25013
+44180,"Springfield, MO Metro Area",29,043,"Christian County, Missouri",29043
+44180,"Springfield, MO Metro Area",29,059,"Dallas County, Missouri",29059
+44180,"Springfield, MO Metro Area",29,077,"Greene County, Missouri",29077
+44180,"Springfield, MO Metro Area",29,167,"Polk County, Missouri",29167
+44180,"Springfield, MO Metro Area",29,225,"Webster County, Missouri",29225
+44220,"Springfield, OH Metro Area",39,023,"Clark County, Ohio",39023
+44300,"State College, PA Metro Area",42,027,"Centre County, Pennsylvania",42027
+44420,"Staunton-Stuarts Draft, VA Metro Area",51,015,"Augusta County, Virginia",51015
+44420,"Staunton-Stuarts Draft, VA Metro Area",51,790,"Staunton city, Virginia",51790
+44420,"Staunton-Stuarts Draft, VA Metro Area",51,820,"Waynesboro city, Virginia",51820
+44700,"Stockton-Lodi, CA Metro Area",06,077,"San Joaquin County, California",06077
+44940,"Sumter, SC Metro Area",45,085,"Sumter County, South Carolina",45085
+45060,"Syracuse, NY Metro Area",36,053,"Madison County, New York",36053
+45060,"Syracuse, NY Metro Area",36,067,"Onondaga County, New York",36067
+45060,"Syracuse, NY Metro Area",36,075,"Oswego County, New York",36075
+45220,"Tallahassee, FL Metro Area",12,039,"Gadsden County, Florida",12039
+45220,"Tallahassee, FL Metro Area",12,065,"Jefferson County, Florida",12065
+45220,"Tallahassee, FL Metro Area",12,073,"Leon County, Florida",12073
+45220,"Tallahassee, FL Metro Area",12,129,"Wakulla County, Florida",12129
+45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",12,053,"Hernando County, Florida",12053
+45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",12,057,"Hillsborough County, Florida",12057
+45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",12,101,"Pasco County, Florida",12101
+45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",12,103,"Pinellas County, Florida",12103
+45460,"Terre Haute, IN Metro Area",18,021,"Clay County, Indiana",18021
+45460,"Terre Haute, IN Metro Area",18,153,"Sullivan County, Indiana",18153
+45460,"Terre Haute, IN Metro Area",18,165,"Vermillion County, Indiana",18165
+45460,"Terre Haute, IN Metro Area",18,167,"Vigo County, Indiana",18167
+45500,"Texarkana, TX-AR Metro Area",05,081,"Little River County, Arkansas",05081
+45500,"Texarkana, TX-AR Metro Area",05,091,"Miller County, Arkansas",05091
+45500,"Texarkana, TX-AR Metro Area",48,037,"Bowie County, Texas",48037
+45780,"Toledo, OH Metro Area",39,051,"Fulton County, Ohio",39051
+45780,"Toledo, OH Metro Area",39,095,"Lucas County, Ohio",39095
+45780,"Toledo, OH Metro Area",39,173,"Wood County, Ohio",39173
+45820,"Topeka, KS Metro Area",20,085,"Jackson County, Kansas",20085
+45820,"Topeka, KS Metro Area",20,087,"Jefferson County, Kansas",20087
+45820,"Topeka, KS Metro Area",20,139,"Osage County, Kansas",20139
+45820,"Topeka, KS Metro Area",20,177,"Shawnee County, Kansas",20177
+45820,"Topeka, KS Metro Area",20,197,"Wabaunsee County, Kansas",20197
+45940,"Trenton-Princeton, NJ Metro Area",34,021,"Mercer County, New Jersey",34021
+46060,"Tucson, AZ Metro Area",04,019,"Pima County, Arizona",04019
+46140,"Tulsa, OK Metro Area",40,037,"Creek County, Oklahoma",40037
+46140,"Tulsa, OK Metro Area",40,111,"Okmulgee County, Oklahoma",40111
+46140,"Tulsa, OK Metro Area",40,113,"Osage County, Oklahoma",40113
+46140,"Tulsa, OK Metro Area",40,117,"Pawnee County, Oklahoma",40117
+46140,"Tulsa, OK Metro Area",40,131,"Rogers County, Oklahoma",40131
+46140,"Tulsa, OK Metro Area",40,143,"Tulsa County, Oklahoma",40143
+46140,"Tulsa, OK Metro Area",40,145,"Wagoner County, Oklahoma",40145
+46220,"Tuscaloosa, AL Metro Area",01,063,"Greene County, Alabama",01063
+46220,"Tuscaloosa, AL Metro Area",01,065,"Hale County, Alabama",01065
+46220,"Tuscaloosa, AL Metro Area",01,107,"Pickens County, Alabama",01107
+46220,"Tuscaloosa, AL Metro Area",01,125,"Tuscaloosa County, Alabama",01125
+46340,"Tyler, TX Metro Area",48,423,"Smith County, Texas",48423
+46520,"Urban Honolulu, HI Metro Area",15,003,"Honolulu County, Hawaii",15003
+46540,"Utica-Rome, NY Metro Area",36,043,"Herkimer County, New York",36043
+46540,"Utica-Rome, NY Metro Area",36,065,"Oneida County, New York",36065
+46660,"Valdosta, GA Metro Area",13,027,"Brooks County, Georgia",13027
+46660,"Valdosta, GA Metro Area",13,101,"Echols County, Georgia",13101
+46660,"Valdosta, GA Metro Area",13,173,"Lanier County, Georgia",13173
+46660,"Valdosta, GA Metro Area",13,185,"Lowndes County, Georgia",13185
+46700,"Vallejo, CA Metro Area",06,095,"Solano County, California",06095
+47020,"Victoria, TX Metro Area",48,175,"Goliad County, Texas",48175
+47020,"Victoria, TX Metro Area",48,469,"Victoria County, Texas",48469
+47220,"Vineland, NJ Metro Area",34,011,"Cumberland County, New Jersey",34011
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",37,029,"Camden County, North Carolina",37029
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",37,053,"Currituck County, North Carolina",37053
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",37,073,"Gates County, North Carolina",37073
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,073,"Gloucester County, Virginia",51073
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,093,"Isle of Wight County, Virginia",51093
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,095,"James City County, Virginia",51095
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,115,"Mathews County, Virginia",51115
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,181,"Surry County, Virginia",51181
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,199,"York County, Virginia",51199
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,550,"Chesapeake city, Virginia",51550
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,650,"Hampton city, Virginia",51650
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,700,"Newport News city, Virginia",51700
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,710,"Norfolk city, Virginia",51710
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,735,"Poquoson city, Virginia",51735
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,740,"Portsmouth city, Virginia",51740
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,800,"Suffolk city, Virginia",51800
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,810,"Virginia Beach city, Virginia",51810
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",51,830,"Williamsburg city, Virginia",51830
+47300,"Visalia, CA Metro Area",06,107,"Tulare County, California",06107
+47380,"Waco, TX Metro Area",48,035,"Bosque County, Texas",48035
+47380,"Waco, TX Metro Area",48,145,"Falls County, Texas",48145
+47380,"Waco, TX Metro Area",48,309,"McLennan County, Texas",48309
+47460,"Walla Walla, WA Metro Area",53,071,"Walla Walla County, Washington",53071
+47580,"Warner Robins, GA Metro Area",13,153,"Houston County, Georgia",13153
+47580,"Warner Robins, GA Metro Area",13,225,"Peach County, Georgia",13225
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",11,001,"District of Columbia, District of Columbia",11001
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,017,"Charles County, Maryland",24017
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,021,"Frederick County, Maryland",24021
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,031,"Montgomery County, Maryland",24031
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",24,033,"Prince George's County, Maryland",24033
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,013,"Arlington County, Virginia",51013
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,043,"Clarke County, Virginia",51043
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,047,"Culpeper County, Virginia",51047
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,059,"Fairfax County, Virginia",51059
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,061,"Fauquier County, Virginia",51061
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,107,"Loudoun County, Virginia",51107
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,153,"Prince William County, Virginia",51153
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,157,"Rappahannock County, Virginia",51157
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,177,"Spotsylvania County, Virginia",51177
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,179,"Stafford County, Virginia",51179
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,187,"Warren County, Virginia",51187
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,510,"Alexandria city, Virginia",51510
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,600,"Fairfax city, Virginia",51600
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,610,"Falls Church city, Virginia",51610
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,630,"Fredericksburg city, Virginia",51630
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,683,"Manassas city, Virginia",51683
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",51,685,"Manassas Park city, Virginia",51685
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",54,037,"Jefferson County, West Virginia",54037
+47930,"Waterbury-Shelton, CT Metro Area",09,140,"Naugatuck Valley Planning Region, Connecticut",09140
+47940,"Waterloo-Cedar Falls, IA Metro Area",19,013,"Black Hawk County, Iowa",19013
+47940,"Waterloo-Cedar Falls, IA Metro Area",19,017,"Bremer County, Iowa",19017
+47940,"Waterloo-Cedar Falls, IA Metro Area",19,075,"Grundy County, Iowa",19075
+48060,"Watertown-Fort Drum, NY Metro Area",36,045,"Jefferson County, New York",36045
+48140,"Wausau, WI Metro Area",55,073,"Marathon County, Wisconsin",55073
+48260,"Weirton-Steubenville, WV-OH Metro Area",39,081,"Jefferson County, Ohio",39081
+48260,"Weirton-Steubenville, WV-OH Metro Area",54,009,"Brooke County, West Virginia",54009
+48260,"Weirton-Steubenville, WV-OH Metro Area",54,029,"Hancock County, West Virginia",54029
+48540,"Wheeling, WV-OH Metro Area",39,013,"Belmont County, Ohio",39013
+48540,"Wheeling, WV-OH Metro Area",54,051,"Marshall County, West Virginia",54051
+48540,"Wheeling, WV-OH Metro Area",54,069,"Ohio County, West Virginia",54069
+48620,"Wichita, KS Metro Area",20,015,"Butler County, Kansas",20015
+48620,"Wichita, KS Metro Area",20,079,"Harvey County, Kansas",20079
+48620,"Wichita, KS Metro Area",20,173,"Sedgwick County, Kansas",20173
+48620,"Wichita, KS Metro Area",20,191,"Sumner County, Kansas",20191
+48660,"Wichita Falls, TX Metro Area",48,009,"Archer County, Texas",48009
+48660,"Wichita Falls, TX Metro Area",48,077,"Clay County, Texas",48077
+48660,"Wichita Falls, TX Metro Area",48,485,"Wichita County, Texas",48485
+48680,"Wildwood-The Villages, FL Metro Area",12,119,"Sumter County, Florida",12119
+48700,"Williamsport, PA Metro Area",42,081,"Lycoming County, Pennsylvania",42081
+48900,"Wilmington, NC Metro Area",37,019,"Brunswick County, North Carolina",37019
+48900,"Wilmington, NC Metro Area",37,129,"New Hanover County, North Carolina",37129
+48900,"Wilmington, NC Metro Area",37,141,"Pender County, North Carolina",37141
+49020,"Winchester, VA-WV Metro Area",51,069,"Frederick County, Virginia",51069
+49020,"Winchester, VA-WV Metro Area",51,840,"Winchester city, Virginia",51840
+49020,"Winchester, VA-WV Metro Area",54,027,"Hampshire County, West Virginia",54027
+49180,"Winston-Salem, NC Metro Area",37,057,"Davidson County, North Carolina",37057
+49180,"Winston-Salem, NC Metro Area",37,059,"Davie County, North Carolina",37059
+49180,"Winston-Salem, NC Metro Area",37,067,"Forsyth County, North Carolina",37067
+49180,"Winston-Salem, NC Metro Area",37,169,"Stokes County, North Carolina",37169
+49180,"Winston-Salem, NC Metro Area",37,197,"Yadkin County, North Carolina",37197
+49340,"Worcester, MA Metro Area",25,027,"Worcester County, Massachusetts",25027
+49420,"Yakima, WA Metro Area",53,077,"Yakima County, Washington",53077
+49620,"York-Hanover, PA Metro Area",42,133,"York County, Pennsylvania",42133
+49660,"Youngstown-Warren, OH Metro Area",39,099,"Mahoning County, Ohio",39099
+49660,"Youngstown-Warren, OH Metro Area",39,155,"Trumbull County, Ohio",39155
+49700,"Yuba City, CA Metro Area",06,101,"Sutter County, California",06101
+49700,"Yuba City, CA Metro Area",06,115,"Yuba County, California",06115
+49740,"Yuma, AZ Metro Area",04,027,"Yuma County, Arizona",04027
